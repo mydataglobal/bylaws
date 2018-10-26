@@ -159,7 +159,7 @@ The financial statement and its supplements, approved by the board, must be subm
 
 ## 8.1 Chair, Vice Chair, Chief Executive Officer (CEO)
 
-The chair, vice chair(s), and CEO will be able to sign on behalf of the Association alone. The Board may give power of attorney to a Board member or one of its officers to sign on behalf of the Association alone.
+The chair, vice chair, and CEO will be able to sign on behalf of the Association alone. The Board may give power of attorney to a Board member or one of its officers to sign on behalf of the Association alone.
 
 
 # ARTICLE 9 – Internal Regulations
@@ -408,7 +408,7 @@ Hallituksen hyväksymä tilinpäätös ja sen liitteet on toimitettava tilintark
 
 ## 8.1 Puheenjohtaja, varapuheenjohtaja, toimitusjohtaja
 
-Yhdistyksen nimen kirjoittavat hallituksen puheenjohtaja, varapuheenjohtaja(t) tai toiminnanjohtaja yksin. Hallitus voi oikeuttaa yksittäisen hallituksen jäsenen tai muun yhdistyksen toimihenkilön kirjoittamaan yksinään yhdistyksen nimen.
+Yhdistyksen nimen kirjoittavat hallituksen puheenjohtaja, varapuheenjohtaja tai toimitusjohtaja yksin. Hallitus voi oikeuttaa yksittäisen hallituksen jäsenen tai muun yhdistyksen toimihenkilön kirjoittamaan yksinään yhdistyksen nimen.
 
 
 # 9. Sisäiset määräykset
