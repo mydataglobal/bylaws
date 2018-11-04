@@ -241,7 +241,7 @@ In case of dissolution the assets of the Association must be used to promote the
 
 ## 12.1 Open Decision Making
 
-Decision making in and activities of the association are open and transparent. Preparations and outputs of all board- and general meetings, including agenda creation and proposals for decision or discussion, minutes, records of decisions made, and any of their supplements, are open by default and the membership have the right to participate in them. All board meetings are by default open for members to participate in. All decisions taken by the Association are public by default.
+Decision making and activities of the association are open and transparent. Preparations and outputs of all board- and general meetings, including agenda creation and proposals for decision or discussion, minutes, records of decisions made, and any of their supplements, are open by default and the membership have the right to participate in them. All board meetings are by default open for members to participate in. All decisions taken by the Association are public by default.
 
 In extraordinary circumstances, the Board may restrict the involvement and access  of members who are not on the Board in the processes and to the documents outlined in this section. Matters involving privacy protection and those of a particularly sensitive nature may qualify as these extraordinary circumstances.
 
