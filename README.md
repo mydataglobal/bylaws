@@ -70,7 +70,7 @@ In order to retain membership, all members shall pay their respective annual mem
 
 A member may resign from the Association by notifying the Board in writing. A member may also resign by including such resignation to the minutes of a Meeting of the Association.
 
-The Board may to suspend or expel a member for violation of these bylaws, violation of the Association’s internal regulations, action against the purpose of the Association, behaviour contrary to the purpose or collective interest of the Association, or action that brings the Association into disrepute. Suspension and expulsion from the Association will take immediate effect after the decision to suspend or expel.
+The Board may suspend or expel a member for violation of these bylaws, violation of the Association’s internal regulations, action against the purpose of the Association, behaviour contrary to the purpose or collective interest of the Association, or action that brings the Association into disrepute. Suspension and expulsion from the Association will take immediate effect after the decision to suspend or expel.
 
 
 # ARTICLE 4 – Board of Directors
