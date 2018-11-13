@@ -64,6 +64,8 @@ The Association may charge an admission fee and an annual membership fee.
 
 Admission fees and annual membership fee categories for both membership classes are defined and decided on in the autumn general meeting.
 
+The Board may partially or fully and temporarily or permanently exempt a member from membership fees on the basis of a bad financial position, for other similar social reasons, or if the member has made substantial support to the association for its activities.
+
 ## 3.4 Resignation and Expulsion of a Member
 
 In order to retain membership, all members shall pay their respective annual membership fee by its due date. A membership fee that remains unpaid after ninety (90) days of its due date is considered as a resignation of membership of the Association.
