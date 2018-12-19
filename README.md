@@ -217,6 +217,8 @@ At minimum,  the following points shall be addressed at the autumn general meeti
 
 In the Association’s meetings each individual member has one (1) vote and organisational member has five (5) votes. The goal of the Association is equal voting power between two membership classes (individual members and organisational members). Should the ratio between individual members and organisational members change, the Association will take steps to update these bylaws to reflect the then current ratio. The evaluation is conducted yearly and considered in each autumn general meeting.
 
+Members of the Association may delegate their vote(s) to another member. Procedures are defined in detail in the Association’s Voting and Elections Regulations.
+
 Election and voting procedures are defined in detail in the Association’s Voting and Elections Regulations.
 
 ## 10.6 Remote Participation in General Meetings
@@ -466,6 +468,8 @@ Syyskokouksessa käsitellään ainakin seuraavat asiat:
 
 Yhdistyksen kokouksessa henkilöjäsenellä on yksi (1) ja yhteisöjäsenellä viisi (5) ääntä.
 Yhdistyksen tavoitteena on yhtäläinen päätöksentekovalta kahden jäsenluokan (henkilöjäsenet ja yhteisöjäsenet) kesken. Jos henkilö- ja yhteisöjäsenten lukumäärien suhde muuttuu, Yhdistys tekee tarvittavat toimenpiteet, jotta säännöt muutetaan vastaamaan ajantasaista jäsenluokkien suhdetta. Arviointi tehdään vuosittain syyskokouksessa.
+
+Yhdistyksen jäsenet voivat halutessaan siirtää äänioikutensa toiselle yhdistyksen jäsenelle. Siirtotavat määritellään tarkemmin yhdistyksen äänestys- ja vaalijärjestyksessä.
 
 Vaaleista ja äänestysten järjestämisestä määritellään tarkemmin yhdistyksen äänestys- ja vaalijärjestyksessä.
 
