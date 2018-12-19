@@ -70,7 +70,7 @@ In order to retain membership, all members shall pay their respective annual mem
 
 A member may resign from the Association by notifying the Board in writing. A member may also resign by including such resignation to the minutes of a Meeting of the Association.
 
-The Board may to suspend or expel a member for violation of these bylaws, violation of the Association’s internal regulations, action against the purpose of the Association, behaviour contrary to the purpose or collective interest of the Association, or action that brings the Association into disrepute. Suspension and expulsion from the Association will take immediate effect after the decision to suspend or expel.
+The Board may suspend or expel a member for violation of these bylaws, violation of the Association’s internal regulations, action against the purpose of the Association, behaviour contrary to the purpose or collective interest of the Association, or action that brings the Association into disrepute. Suspension and expulsion from the Association will take immediate effect after the decision to suspend or expel.
 
 
 # ARTICLE 4 – Board of Directors
@@ -243,7 +243,7 @@ In case of dissolution the assets of the Association must be used to promote the
 
 ## 12.1 Open Decision Making
 
-Decision making in and activities of the association are open and transparent. Preparations and outputs of all board- and general meetings, including agenda creation and proposals for decision or discussion, minutes, records of decisions made, and any of their supplements, are open by default and the membership have the right to participate in them. All board meetings are by default open for members to participate in. All decisions taken by the Association are public by default.
+Decision making and activities of the association are open and transparent. Preparations and outputs of all board- and general meetings, including agenda creation and proposals for decision or discussion, minutes, records of decisions made, and any of their supplements, are open by default and the membership have the right to participate in them. All board meetings are by default open for members to participate in. All decisions taken by the Association are public by default.
 
 In extraordinary circumstances, the Board may restrict the involvement and access  of members who are not on the Board in the processes and to the documents outlined in this section. Matters involving privacy protection and those of a particularly sensitive nature may qualify as these extraordinary circumstances.
 
