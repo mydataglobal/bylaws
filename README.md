@@ -128,7 +128,9 @@ The steering group is also responsible for reviewing candidates for the Board an
 
 Upon notice to the members, the steering group shall submit to the Board a roster of candidates including their Curriculum Vitae or similar, for election or appointment.
 
-The steering group shall consist of two (2) members of the Board and four (4) representatives of members, two (2) from each membership class. The representatives of the Board in the steering group shall be appointed by the Board. The representatives of each membership class shall be elected among the Association’s members at the autumn general meeting. Members of the steering group that are candidates for election cannot review the other candidates for that election.
+The Steering Group shall consist of four (4) principal members representing the association membership, two (2) from each membership class. The representatives of each membership class shall be elected among the Association’s members at the autumn general meeting. For each of the principal Steering Group members, a personal alternate member shall be elected. Members of the Steering Group that are candidates for election cannot review the other candidates for that election.
+
+In addition to the elected Steering Group members the Board shall appoint two members of the Board to serve also in the Steering Group.
 
 The term of office for members of the steering group is one (1) year. A member can be member of the steering group for a maximum of three (3) consecutive terms.
 
@@ -379,7 +381,9 @@ Ohjausryhmä on myös vastuussa ehdokkaiden soveltuvuuden arvioinnista hallitusv
 
 Pyydettäessä ohjausryhmä laatii Hallitukselle valintaa tai nimitystä varten listan ehdokkaista, mukaan lukien ansioluettelot tai vastaavat.
 
-Ohjausryhmään kuuluu kaksi (2) Hallituksen jäsentä ja neljä (4) jäsenten edustajaa, joista kaksi (2) on valittu kummastakin jäsenluokasta. Hallitus nimeää hallituksen edustajat ohjausryhmään. Kummankin jäsenluokan edustajat valitaan Yhdistyksen jäsenistä syyskokouksessa. Ehdokkaana olevat ohjausryhmän jäsenet eivät voi arvioida muita ehdokkaita vaaliin, jossa he ovat itse ehdolla.
+Ohjausryhmään kuuluu neljä (4) yhdistyksen jäsenistöä edustavaa varsinaista jäsentä, kaksi (2) kummastakin jäsenluokasta. Kummankin jäsenluokan edustajat valitaan Yhdistyksen jäsenistä syyskokouksessa. Jokaiselle ohjausryhmän varsinaiselle jäsenelle on valittava henkilökohtainen varajäsen. Ehdokkaana olevat ohjausryhmän jäsenet eivät voi arvioida muita ehdokkaita vaaliin, jossa he ovat itse ehdolla.
+
+Vaaleilla valittujen ohjausryhmän jäsenten lisäksi hallitus nimittää kaksi hallituksen jäsentä toimimaan myös ohjausryhmässä.
 
 Ohjausryhmän jäsenten toimikausi on yksi (1) vuosi. Jäsen voi olla ohjausryhmän jäsen enintään kolme (3) peräkkäistä toimikautta.
 
