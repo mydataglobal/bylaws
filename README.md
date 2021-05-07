@@ -190,31 +190,32 @@ The Board must give notice of general meetings by email and at the Associationâ€
 
 ## 10.4 Agenda for General Meetings
 
-The agenda followed at general meetings is compiled by the Board. Any motions for decision or discussion in a general meeting by the membership are to be submitted fourteen (14) days prior to the meeting.
+The agenda followed at general meetings is compiled by the Board. If the members wish a particular matter to be decided or discussed at a general meeting, they must take the motion to the Board no later than fourteen (14) days before the meeting. The Board shall provide all the meeting materials to the membership no later than seven (7) days before the meeting.
 
-At minimum, the following points shall be addressed in the spring general meeting:
+Mandatory points to be addressed at the spring general meeting:
 
-- The annual report by the Board, the financial audit, and the statement of the accountants shall be presented
+- The annual report by the Board, the financial audit, and the statement of the accountants shall be presented.
 
-- The financial statement of the preceding year of activity is approved and the Board and others accountable for that fiscal period are relieved of responsibility
+- The financial statement of the preceding year of activity is approved, and the Board and others accountable for that fiscal period are relieved of responsibility.
 
-- The performance report as prepared by the oversight committee.
+- The performance report prepared by the Steering Committee shall be presented.
 
-At minimum,  the following points shall be addressed at the autumn general meeting:
+Mandatory points to be addressed at the autumn general meeting:
 
 - Deciding on the number of Board members for the next term
 
-- Elections for the one half (1/2) of the Board (including their personal alternates) whose term has concluded
+- Elections for the half (1/2) of the Board (including their alternates) whose term has concluded
 
 - Choosing one (1) auditor for the Association and, if the auditor is not a registered accountancy firm, one (1) deputy auditor for the next fiscal period
 
 - Deciding on the compensation for Board members and auditor(s)
 
-- Elections for four (4)  members, two (2) from each membership class, to the Steering Group for the next fiscal period
+- Elections for four (4) members, two (2) from each membership class (including their alternates), to the Steering Committee for the next fiscal period
 
 - Ratification of the business plan and budget of the Association for the next fiscal period.
 
-- Setting the membership fees for the Association for the next fiscal period
+- Setting the membership fees for the Association for the next fiscal period.
+
 
 ## 10.5 Voting in General Meetings
 
