@@ -217,7 +217,7 @@ At minimum,  the following points shall be addressed at the autumn general meeti
 
 ## 10.5 Voting in General Meetings
 
-In the Association’s meetings each individual member has one (1) vote and each organisational member has four (4) votes. The goal of the Association is equal voting power between two membership classes (individual members and organisational members). Should the ratio between individual members and organisational members change, the Association will take steps to update these bylaws to reflect the then current ratio. The evaluation is conducted yearly and considered in each spring general meeting.
+In the Association’s meetings each individual member has one (1) vote, and each organisation member has four (4) votes. The Association’s goal is equal voting power between the two membership classes (individual members and organisation members). If the ratio between individual members and organisation members changes, the Association shall update these bylaws to reflect the current ratio. The evaluation is conducted yearly and considered in each spring general meeting.
 
 Members of the Association may delegate their vote(s) to another member. Procedures are defined in detail in the Association’s Voting and Elections Regulations.
 
