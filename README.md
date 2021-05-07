@@ -16,7 +16,7 @@ The Association is governed by the Finnish Association Act.
 
 ## 1.4 Language Policy
 
-The Association is obliged to maintain up-to-date English-language versions of bylaws and meeting minutes of board meetings, general meetings and extraordinary general meetings of the Association. 
+The Association is obliged to maintain up-to-date English-language versions of bylaws and meeting minutes of board meetings, general meetings and extraordinary general meetings.
 
 
 # ARTICLE 2 – Purpose and Means
@@ -25,17 +25,17 @@ The Association is obliged to maintain up-to-date English-language versions of b
 
 The Association maintains, develops and promotes the MyData Declaration.
 
-The purpose of the Association is to empower individuals by improving their right to self-determination regarding their personal data. The human-centric paradigm is aimed at a fair, sustainable, and prosperous digital society, where the sharing of personal data is based on trust as well as balanced and fair relationship between individuals and organisations.
+The Association aims to empower individuals by improving their right to self-determination regarding their personal data. The human-centric paradigm strives for a fair, sustainable, and prosperous digital society, where the sharing of personal data is based on trust and a balanced and fair relationship between individuals and organisations.
 
 ## 2.2 Modes of activity
 
-The Association operates globally and engages with a diverse group of stakeholders, including natural persons, companies, non-profits, academic institutions and public organisations.
+The Association operates globally and engages with diverse stakeholders, including natural persons, companies, non-profits, academic institutions, and public organisations.
 
 The Association shall facilitate an open, participatory and collaborative environment for individuals and organisations pursuing the Association’s purpose.
 
-The Association offers a global framework for local, national, and international activities that accord with the purpose of the Association and for affiliated initiatives. The activities of the Association include promoting and developing international networks related to the purpose of the Association, conducting advocacy, collaboration with different stakeholders, influencing policy making, producing reports and conducting research, and implementing projects and services supporting the purpose of the Association.
+The Association offers a global framework for local, national, and international activities that align with the Association’s purpose and for affiliated initiatives. The Association’s activities include promoting and developing international networks related to the Association’s purpose, conducting advocacy, collaboration with different stakeholders, influencing policy-making, producing reports and conducting research, and implementing projects and services supporting the Association’s purpose.
 
-To support its operations, the Association may receive donations and bequests as well as raise funds by organising collections, seminars, courses, and other events that support the purpose of the Association. The Association may own, buy, sell, and licence goods necessary for its operations as well as own tangible and intangible assets. In addition, the Association may engage in the following types of business activities that support its purpose: training, consulting, sale and manufacture of goods related to the purpose of the Association, organisation of events such as conferences, publishing, and certification.
+To support its operations, the Association may receive donations and bequests and raise funds by organising collections, seminars, courses, and other events that support the purpose of the Association. The Association may own, buy, sell, and licence goods necessary for its operations and own tangible and intangible assets. Also, the Association may engage in the following types of business activities that support its purpose: training, consulting, sale and manufacture of goods related to the purpose of the Association, organisation of events such as conferences, publishing, and certification.
 
 
 # ARTICLE 3 – Members
@@ -55,9 +55,9 @@ The Association’s list of members is a public document and may be published on
 
 Membership in the Association shall be organised in two classes: 1) individual members (that are natural persons) and 2) organisation members (that are legal entities).
 
-Rights and obligations of the member depend on the membership class. Class designation shall be determined at the time of membership admission.
+The rights and obligations of the member depend on the membership class. The membership class shall be determined at the time of membership admission.
 
-Organisation members must authorize a natural person as their primary contact and representative in matters relating to the Association.
+Organisation members must authorise a natural person as their primary contact and representative in matters relating to the Association.
 
 ## 3.3 Admission Fee and Membership Fee
 
@@ -113,27 +113,27 @@ The Board is quorate when at least one half of its members, including the chair 
 Remote participation in Board meetings shall be possible with telecommunication or other technical means. The Board will settle the exact mode of remote participation. 
 
 
-# ARTICLE 5 – Officers and Steering Group
+# ARTICLE 5 – Officers and Steering Committee
 
 ## 5.1 Chief Executive Officer (CEO)
 
 The Board may nominate a Chief Executive Officer. The authority delegated to the CEO will then be defined by the Board.
 
-## 5.2 Steering Group
+## 5.2 Steering Committee
 
-The steering group is responsible for assisting the Board in its oversight of the Associations’ internal regulations and following of the approved strategy.
+The Steering Committee is responsible for assisting the Board in its oversight of the Associations’ internal regulations and following the approved strategy.
 
-The steering group shall conduct the annual performance audit and report it in the Spring General Meeting.
+The Steering Committee shall conduct the annual performance audit and report it in the spring general meeting.
 
-The steering group is also responsible for reviewing candidates for the Board and their alternates, candidates for the steering group itself, and any position or committee membership in the Association that the Board requests review for.
+The Steering Committee is responsible for reviewing candidates for the Board and Steering Committee and their alternates and any position or committee membership in the Association that the Board requests a review.
 
-Upon notice to the members, the steering group shall submit to the Board a roster of candidates including their Curriculum Vitae or similar, for election or appointment.
+When requested, the Steering Committee shall submit to the Board a roster of candidates, including their Curriculum Vitae or similar, for election or appointment.
 
-The Steering Group shall consist of four (4) principal members representing the association membership, two (2) from each membership class. The representatives of each membership class shall be elected among the Association’s members at the autumn general meeting. For each of the principal Steering Group members, a personal alternate member shall be elected. Members of the Steering Group that are candidates for election cannot review the other candidates for that election.
+The Steering Committee shall consist of four (4) principal members representing the association membership, two (2) from each membership class. The representatives of each membership class shall be elected among the Association’s members at the autumn general meeting. For each of the principal Steering Committee members, a personal alternate member shall be elected. Members of the Steering Committee that are candidates for election cannot review the other candidates for that election.
 
-In addition to the elected Steering Group members the Board shall appoint two members of the Board to serve also in the Steering Group.
+In addition to the elected Steering Committee members, the Board shall appoint two members of the Committee to serve also in the Steering Committee.
 
-The term of office for members of the steering group is one (1) year. A member can be member of the steering group for a maximum of three (3) consecutive terms.
+The term of office for members of the Steering Committee is one (1) year. A member can be a principal Steering Committee member for a maximum of three (3) consecutive terms.
 
 
 # ARTICLE 6 – Committees
@@ -178,11 +178,11 @@ Internal regulations are established and approved to be used in the general meet
 
 ## 10.1 Regular General Meeting Times
 
-A spring general meeting of the Association is to be held between March and June and an autumn general meeting between September and December, at a date and time specified by the Board.
+Association’s spring general meeting is to be held between March and June and the autumn general meeting between September and December, at a date and time specified by the Board.
 
 ## 10.2 Extraordinary General Meeting
 
-An extraordinary general meeting is held if it is decided upon in a general meeting; in case the Board deems it necessary; or if at least one tenth (1/10) of the members, or 100 members, whichever is smaller, request it in writing in order to discuss a named issue.
+An extraordinary general meeting is held if it is decided upon in a general meeting; in case the Board deems it necessary; or if at least one-tenth (1/10) of the members, or 100 members, whichever is smaller, request it in writing to discuss a named issue.
 
 ## 10.3 Notice of General Meetings
 
@@ -234,7 +234,7 @@ Remote participation in general meetings shall be possible during the meeting th
 
 ## 11.1 Bylaw Amendments or Dissolution
 
-Decisions for amendations to these bylaws or the dissolution of the Association require at least three quarters (¾) of votes cast in favour in a general meeting to pass.
+In case of dissolution, the Association’s assets must be used to promote the Association’s purpose in a manner determined by the general meeting at which the dissolution is decided.
 
 Amendation of the bylaws or the dissolution of the Association must be announced in the general meeting invitation.
 
@@ -247,9 +247,9 @@ In case of dissolution the assets of the Association must be used to promote the
 
 ## 12.1 Open Decision Making
 
-Decision making and activities of the association are open and transparent. Preparations and outputs of all board- and general meetings, including agenda creation and proposals for decision or discussion, minutes, records of decisions made, and any of their supplements, are open by default and the membership have the right to participate in them. All board meetings are by default open for members to participate in. All decisions taken by the Association are public by default.
+The decision making and activities of the association are open and transparent. Preparations and outputs of all board- and general meetings, including agenda creation and proposals for decision or discussion, minutes, records of decisions made, and any of their supplements, are open by default, and the members have the right to participate in them. All board meetings are by default open for members to participate in them. All decisions taken by the Association are public by default.
 
-In extraordinary circumstances, the Board may restrict the involvement and access  of members who are not on the Board in the processes and to the documents outlined in this section. Matters involving privacy protection and those of a particularly sensitive nature may qualify as these extraordinary circumstances.
+In extraordinary circumstances, the Board may restrict the involvement and access of members who are not on the Board in the processes and the documents outlined in this section. Matters involving privacy protection and those of a particularly sensitive nature may qualify as these extraordinary circumstances.
 
 
 
