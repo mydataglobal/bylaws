@@ -444,7 +444,7 @@ Hallituksen on kutsuttava yhdistyksen kokoukset koolle viimeistään kolmekymmen
 
 ## 10.4 Yhdistykskokousten esityslista
 
-Yhdistyskokouksen esityslistan laatii Hallitus. Jos jäsenet haluavat jonkin tietyn asian päätettäväksi tai käsiteltäväksi yhdistyskokouksessa, heidän on tehtävä aiheesta aloite Hallitukselle viimeistään neljätoista (14) päivää ennen kokousta.
+Yhdistyskokouksen esityslistan laatii Hallitus. Jos jäsenet haluavat jonkin tietyn asian päätettäväksi tai käsiteltäväksi yhdistyskokouksessa, heidän on tehtävä aiheesta aloite Hallitukselle viimeistään neljätoista (14) päivää ennen kokousta. Hallitus toimittaa kaikki kokousmateriaalit jäsenille vähintään seitsemän (7) päivää ennen kokousta.
 
 Kevätkokouksessa käsitellään ainakin seuraavat asiat:
 
@@ -458,13 +458,13 @@ Syyskokouksessa käsitellään ainakin seuraavat asiat:
 
 - Päätetään hallituksen jäsenten määrä seuraavalle tilikaudelle
 
-- Hallituksen jäsenten valitseminen (mukaan lukien varajäsenet) erovuorossa olevien jäsenten tilalle
+- Erovuorossa olevien hallituksen jäsenten, yhteensä noin puolet (1/2) jäsenten kokonaismäärästä, tilalle tulevien jäsenten (mukaan lukien varajäsenet) valitseminen
 
 - Yhden (1) varsinaisen tilintarkastajan ja mikäli varsinainen tilintarkastaja ei ole tilintarkastusyhteisö, yhden (1) varatilintarkastajan valitseminen seuraavalle tilikaudelle
 
 - Päätetään Hallituksen jäsenten ja tilintarkastajien palkkioista
 
-- Neljän (4) jäsenen, kaksi (2) kummallekin jäsenluokalle, valitseminen ohjausryhmään seuraavalle tilikaudelle
+- Neljän (4) jäsenen (mukaan lukien varajäsenet), kaksi (2) kummallekin jäsenluokalle, valitseminen ohjausryhmään seuraavalle tilikaudelle
 
 - Yhdistyksen toimintasuunnitelman ja budjetin vahvistaminen seuraavalle tilikaudelle
 
