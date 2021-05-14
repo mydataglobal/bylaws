@@ -297,7 +297,7 @@ Toimintansa tukemiseksi yhdistys voi ottaa vastaan lahjoituksia ja testamentteja
 
 ## 3.1 Jäseneksi hyväksyminen
 
-Yhdistyksen jäsenyyttä voi hakea luonnollinen henkilö tai oikeushenkilö, joka haluaa edistää Yhdistyksen tarkoitusta ja sitoutuu noudattamaan näitä sääntöjä.
+Yhdistyksen jäsenyyttä voi hakea luonnollinen henkilö tai oikeushenkilö, joka haluaa edistää Yhdistyksen tarkoitusta, sitoutuu noudattamaan näitä sääntöjä ja allekirjoittaa MyData-julistuksen.
 
 Uudet jäsenet hyväksyy hakemuksesta Yhdistyksen hallitus. Jäsenhakemus on jätettävä hallituksen kulloinkin hyväksymässä muodossa.
 
