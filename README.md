@@ -270,7 +270,7 @@ Yhdistyksen toimintaan sovelletaan Suomen yhdistyslakia.
 
 ## 1.4 Kielikäytäntö
 
-Yhdistyksen tulee ylläpitää ajantasaista englanninkielistä versiota säännöistä sekä Yhdistyksen hallituksen kokousten, yhdistyskokousten ja ylimääräisten yhdistyskokousten pöytäkirjoista.
+Yhdistyksen tulee ylläpitää ajantasaista englanninkielistä versiota säännöistä sekä hallituksen kokousten, yhdistyskokousten ja ylimääräisten yhdistyskokousten pöytäkirjoista.
 
 
 # 2. Tarkoitus ja toimintamuodot
