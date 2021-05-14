@@ -472,10 +472,9 @@ Syyskokouksessa käsitellään ainakin seuraavat asiat:
 
 ## 10.5 Äänestäminen yhdistyskokouksessa
 
-Yhdistyksen kokouksessa henkilöjäsenellä on yksi (1) ja yhteisöjäsenellä neljä (4) ääntä.
-Yhdistyksen tavoitteena on yhtäläinen päätöksentekovalta kahden jäsenluokan (henkilöjäsenet ja yhteisöjäsenet) kesken. Jos henkilö- ja yhteisöjäsenten lukumäärien suhde muuttuu, Yhdistys tekee tarvittavat toimenpiteet, jotta säännöt muutetaan vastaamaan ajantasaista jäsenluokkien suhdetta. Arviointi tehdään vuosittain kevätkokouksessa.
+Yhdistyksen kokouksessa jokaisella henkilöjäsenellä on yksi (1) ääni ja jokaisella yhteisöjäsenellä on neljä (4) ääntä. Yhdistyksen tavoitteena on yhtäläinen päätöksentekovalta kahden jäsenluokan (henkilöjäsenet ja yhteisöjäsenet) kesken. Jos henkilö- ja yhteisöjäsenten lukumäärien suhde muuttuu, Yhdistys tekee tarvittavat toimenpiteet, jotta säännöt muutetaan vastaamaan ajantasaista suhdetta. Arviointi tehdään vuosittain kevätkokouksessa.
 
-Yhdistyksen jäsenet voivat halutessaan siirtää äänioikutensa toiselle yhdistyksen jäsenelle. Siirtotavat määritellään tarkemmin yhdistyksen äänestys- ja vaalijärjestyksessä.
+Yhdistyksen jäsenet voivat halutessaan siirtää äänioikeutensa toiselle yhdistyksen jäsenelle. Siirtotavat määritellään tarkemmin yhdistyksen äänestys- ja vaalijärjestyksessä.
 
 Vaaleista ja äänestysten järjestämisestä määritellään tarkemmin yhdistyksen äänestys- ja vaalijärjestyksessä.
 
