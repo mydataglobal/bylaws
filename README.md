@@ -173,6 +173,7 @@ The general meeting may establish internal regulations for the Association that 
 
 Internal regulations are established and approved to be used in the general meeting. A copy of valid regulations, in English, is kept available electronically for all members of the Association.
 
+The MyData Declaration and the strategy of the association are considered internal regulations that shall be treated according to this article.
 
 # ARTICLE 10 –  General Meetings of the Association
 
@@ -236,7 +237,7 @@ Remote participation in general meetings shall be possible during the meeting th
 
 In case of dissolution, the Association’s assets must be used to promote the Association’s purpose in a manner determined by the general meeting at which the dissolution is decided.
 
-Amendation of the bylaws or the dissolution of the Association must be announced in the general meeting invitation.
+Amendation of the bylaws, establishment or amendation of internal regulations or the dissolution of the Association must be announced in the general meeting invitation.
 
 ## 11.2 Distribution of Assets upon Dissolution
 
