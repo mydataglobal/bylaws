@@ -44,7 +44,7 @@ To support its operations, the Association may receive donations and bequests an
 
 Any natural person or legal entity who wishes to promote the Association’s purpose, commit to following these bylaws, and signs the MyData Declaration, may apply for Membership in the Association.
 
-The Board of the Association approves new members based on applications. Applications must follow the submission format currently approved by the Board.
+The Board of the Association or a board nominated membership secretary approves new members based on applications. Applications must follow the submission format currently approved by the Board.
 
 Members may not transfer their membership to another natural person or legal entity.
 
