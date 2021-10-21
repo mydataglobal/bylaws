@@ -123,10 +123,6 @@ The Steering Committee is responsible for assisting the Board in its oversight o
 
 The Steering Committee shall conduct the annual performance audit and report it in the spring general meeting.
 
-The Steering Committee is responsible for reviewing candidates for the Board and Steering Committee and their alternates and any position or committee membership in the Association that the Board requests a review.
-
-When requested, the Steering Committee shall submit to the Board a roster of candidates, including their Curriculum Vitae or similar, for election or appointment.
-
 The Steering Committee shall consist of four (4) principal members representing the association membership, two (2) from each membership class. The representatives of each membership class shall be elected among the Association’s members at the autumn general meeting. For each of the principal Steering Committee members, a personal alternate member shall be elected. Members of the Steering Committee that are candidates for election cannot review the other candidates for that election.
 
 In addition to the elected Steering Committee members, the Board shall appoint two members of the Committee to serve also in the Steering Committee.
