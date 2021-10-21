@@ -94,8 +94,6 @@ All members of the Board must be individual members of the Association. Any memb
 
 The term of office for the Board members is two (2) fiscal years and annually one half or approximately one half of the members of the Board are to retire.
 
-For the members of the first and second elected Boards, the retirement order and the length of the terms are decided in the general meeting in which they are elected.
-
 A member can be a principal Board member for a maximum of two (2) consecutive terms.
 
 ## 4.4 Chair, Vice Chair and other officials
