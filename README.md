@@ -123,7 +123,7 @@ The Steering Committee is responsible for assisting the Board in its oversight o
 
 The Steering Committee shall conduct the annual performance audit and report it in the spring general meeting.
 
-The Steering Committee shall consist of four (4) principal members representing the association membership, two (2) from each membership class. The representatives of each membership class shall be elected among the Association’s members at the autumn general meeting. For each of the principal Steering Committee members, a personal alternate member shall be elected. Members of the Steering Committee that are candidates for election cannot review the other candidates for that election.
+The Steering Committee shall consist of four (6) principal members representing the association membership, two (3) from each membership class. The representatives of each membership class shall be elected among the Association’s members at the autumn general meeting. For each of the principal Steering Committee members, a personal alternate member shall be elected. Members of the Steering Committee that are candidates for election cannot review the other candidates for that election.
 
 The term of office for members of the Steering Committee is one (1) year. A member can be a principal Steering Committee member for a maximum of three (3) consecutive terms.
 
