@@ -125,8 +125,6 @@ The Steering Committee shall conduct the annual performance audit and report it 
 
 The Steering Committee shall consist of four (4) principal members representing the association membership, two (2) from each membership class. The representatives of each membership class shall be elected among the Association’s members at the autumn general meeting. For each of the principal Steering Committee members, a personal alternate member shall be elected. Members of the Steering Committee that are candidates for election cannot review the other candidates for that election.
 
-In addition to the elected Steering Committee members, the Board shall appoint two members of the Committee to serve also in the Steering Committee.
-
 The term of office for members of the Steering Committee is one (1) year. A member can be a principal Steering Committee member for a maximum of three (3) consecutive terms.
 
 
