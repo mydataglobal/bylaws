@@ -177,7 +177,7 @@ Association’s spring general meeting is to be held between March and June and 
 
 ## 10.2 Extraordinary General Meeting
 
-An extraordinary general meeting is held if it is decided upon in a general meeting; in case the Board deems it necessary; or if at least one-tenth (1/10) of the members, or 100 members, whichever is smaller, request it in writing to discuss a named issue.
+An extraordinary general meeting is held if it is decided upon in a general meeting; in case the Board or Steering Committee deems it necessary; or if at least one-tenth (1/10) of the members, or 100 members, whichever is smaller, request it in writing to discuss a named issue.
 
 ## 10.3 Notice of General Meetings
 
