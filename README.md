@@ -372,16 +372,13 @@ Ohjausryhmä avustaa Hallitusta Yhdistyksen sisäisten määräysten valvonnassa
 
 Ohjausryhmä toteuttaa vuosittaisen toiminnantarkastuksen ja raportoi siitä Yhdistyksen kevätkokouksessa.
 
-Ohjausryhmä on myös vastuussa ehdokkaiden soveltuvuuden arvioinnista hallitusvaalien ja ohjausryhmän jäsenten valinnan yhteydessä sekä muiden sellaisten tehtävien täyttämisen yhteydessä,  joiden ehdokkaiden soveltuvuuden arviointiin Hallitus pyytää ohjausryhmän arviota.
+Ohjausryhmään kuuluu neljä (4) varsinaista jäsentä vuonna 2022 alkavalle toimikaudelle ja sen jälkeen kuusi (6) yhdistyksen jäsenistöä edustavaa varsinaista jäsentä, kaksi (2) kummastakin jäsenluokasta. Kummankin jäsenluokan edustajat valitaan Yhdistyksen jäsenistä syyskokouksessa. Jokaiselle ohjausryhmän varsinaiselle jäsenelle on valittava henkilökohtainen varajäsen. Ehdokkaana olevat ohjausryhmän jäsenet eivät voi arvioida muita ehdokkaita vaaliin, jossa he ovat itse ehdolla.
 
-Pyydettäessä ohjausryhmä laatii Hallitukselle valintaa tai nimitystä varten listan ehdokkaista, mukaan lukien ansioluettelot tai vastaavat.
+## 5.3 Ohjausryhmän jäsenten toimikausi
 
-Ohjausryhmään kuuluu neljä (4) yhdistyksen jäsenistöä edustavaa varsinaista jäsentä, kaksi (2) kummastakin jäsenluokasta. Kummankin jäsenluokan edustajat valitaan Yhdistyksen jäsenistä syyskokouksessa. Jokaiselle ohjausryhmän varsinaiselle jäsenelle on valittava henkilökohtainen varajäsen. Ehdokkaana olevat ohjausryhmän jäsenet eivät voi arvioida muita ehdokkaita vaaliin, jossa he ovat itse ehdolla.
+Ohjausryhmän jäsenten toimikausi on kaksi (2) tilikautta, ja vuosittain puolet tai lähinnä puolet ohjausryhmän jäsenistä on erovuorossa. 
 
-Vaaleilla valittujen ohjausryhmän jäsenten lisäksi hallitus nimittää kaksi hallituksen jäsentä toimimaan myös ohjausryhmässä.
-
-Ohjausryhmän jäsenten toimikausi on yksi (1) vuosi. Jäsen voi olla ohjausryhmän jäsen enintään kolme (3) peräkkäistä toimikautta.
-
+Varsinaisena hallituksen jäsenenä voi toimia enintään kaksi (2) peräkkäistä toimikautta.
 
 # 6. Toimikunnat
 
@@ -429,7 +426,7 @@ Yhdistyksen kevätkokous pidetään maalis-kesäkuussa ja syyskokous syys-jouluk
 
 ## 10.2 Ylimääräinen yhdistyskokous
 
-Ylimääräinen yhdistyskokous järjestetään, jos siitä päätetään yhdistyskokouksessa, jos Hallitus katsoo sen tarpeelliseksi tai jos vähintään kymmenesosa (1/10) jäsenistä, tai vähintään 100 jäsentä, kumpi tahansa on pienempi, pyytää sitä kirjallisesti jonkin tietyn asian käsittelyä varten. 
+Ylimääräinen yhdistyskokous järjestetään, jos siitä päätetään yhdistyskokouksessa, jos Hallitus tai ohjausryhmä katsoo sen tarpeelliseksi tai jos vähintään kymmenesosa (1/10) jäsenistä, tai vähintään 100 jäsentä, kumpi tahansa on pienempi, pyytää sitä kirjallisesti jonkin tietyn asian käsittelyä varten. 
 
 ## 10.3 Yhdistyksen kokouskutsu
 
