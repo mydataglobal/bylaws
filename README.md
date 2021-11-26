@@ -428,6 +428,8 @@ Yhdistyskokous voi hyväksyä Yhdistyksen sisäiset määräykset, jotka täyden
 
 Sisäiset määräykset asetetaan ja hyväksytään käyttöön yhdistyskokouksessa. Voimassa olevat englanninkieliset määräykset pidetään Yhdistyksen kaikkien jäsenten saatavilla sähköisessä muodossa.
 
+MyData-julistus ja yhdistyksen strategia ovat sisäisiä määräyksiä, joita tulee käsitellä tämän sääntökohdan mukaisesti.
+
 
 # 10. Yhdistyksen kokoukset
 
