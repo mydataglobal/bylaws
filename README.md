@@ -343,8 +343,6 @@ Kaikkien hallituksen jäsenten tulee olla Yhdistyksen henkilöjäseniä. Kuka ta
 
 Hallituksen jäsenten toimikausi on kaksi (2) tilikautta, ja vuosittain puolet tai lähinnä puolet hallituksen jäsenistä on erovuorossa. 
 
-Ensimmäisen ja toisen hallituksen osalta erojärjestyksestä ja toimikausien pituudesta päätetään valinnan tekevässä kokouksessa.
-
 Varsinaisena hallituksen jäsenenä voi toimia enintään kaksi (2) peräkkäistä toimikautta.
 
 ## 4.4 Puheenjohtaja, varapuheenjohtaja ja muut toimihenkilöt
