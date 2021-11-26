@@ -492,7 +492,7 @@ Etäosallistuminen yhdistyksen kokouksiin on oltava mahdollista tietoliikenneyht
 
 Päätös sääntöjen muuttamisesta ja yhdistyksen purkamisesta on tehtävä yhdistyksen kokouksessa vähintään kolmen neljäsosan (3/4) enemmistöllä annetuista äänistä.
 
-Kokouskutsussa on mainittava sääntöjen muuttamisesta tai yhdistyksen purkamisesta.
+Kokouskutsussa on mainittava sääntöjen muuttamisesta, sisäisten määräysten asettamisesta tai muuttamisesta tai yhdistyksen purkamisesta.
 
 ## 11.2 Varojen jakaminen yhdistyksen purkamisen yhteydessä
 
