@@ -94,8 +94,6 @@ All members of the Board must be individual members of the Association. Any memb
 
 The term of office for the Board members is two (2) fiscal years and annually one half or approximately one half of the members of the Board are to retire.
 
-For the members of the first and second elected Boards, the retirement order and the length of the terms are decided in the general meeting in which they are elected.
-
 A member can be a principal Board member for a maximum of two (2) consecutive terms.
 
 ## 4.4 Chair, Vice Chair and other officials
@@ -125,16 +123,13 @@ The Steering Committee is responsible for assisting the Board in its oversight o
 
 The Steering Committee shall conduct the annual performance audit and report it in the spring general meeting.
 
-The Steering Committee is responsible for reviewing candidates for the Board and Steering Committee and their alternates and any position or committee membership in the Association that the Board requests a review.
+The Steering Committee shall consist of four (4) principal members for the term starting 2022 and from then on (6) principal members representing the association membership, half of them from each membership class. The representatives of each membership class shall be elected among the Association’s members at the autumn general meeting. For each of the principal Steering Committee members, a personal alternate member shall be elected. Members of the Steering Committee that are candidates for election cannot review the other candidates for that election.
 
-When requested, the Steering Committee shall submit to the Board a roster of candidates, including their Curriculum Vitae or similar, for election or appointment.
+## 5.3 Steering Committee Members’ Term of Office
 
-The Steering Committee shall consist of four (4) principal members representing the association membership, two (2) from each membership class. The representatives of each membership class shall be elected among the Association’s members at the autumn general meeting. For each of the principal Steering Committee members, a personal alternate member shall be elected. Members of the Steering Committee that are candidates for election cannot review the other candidates for that election.
+The term of office for the Steering Committee members is two (2) fiscal years and annually one half or approximately one half of the members of the Steering Committee are to retire.
 
-In addition to the elected Steering Committee members, the Board shall appoint two members of the Committee to serve also in the Steering Committee.
-
-The term of office for members of the Steering Committee is one (1) year. A member can be a principal Steering Committee member for a maximum of three (3) consecutive terms.
-
+A member can be a principal Steering Committee member for a maximum of two (2) consecutive terms.
 
 # ARTICLE 6 – Committees
 
@@ -182,7 +177,7 @@ Association’s spring general meeting is to be held between March and June and 
 
 ## 10.2 Extraordinary General Meeting
 
-An extraordinary general meeting is held if it is decided upon in a general meeting; in case the Board deems it necessary; or if at least one-tenth (1/10) of the members, or 100 members, whichever is smaller, request it in writing to discuss a named issue.
+An extraordinary general meeting is held if it is decided upon in a general meeting; in case the Board or Steering Committee deems it necessary; or if at least one-tenth (1/10) of the members, or 100 members, whichever is smaller, request it in writing to discuss a named issue.
 
 ## 10.3 Notice of General Meetings
 
@@ -348,8 +343,6 @@ Kaikkien hallituksen jäsenten tulee olla Yhdistyksen henkilöjäseniä. Kuka ta
 
 Hallituksen jäsenten toimikausi on kaksi (2) tilikautta, ja vuosittain puolet tai lähinnä puolet hallituksen jäsenistä on erovuorossa. 
 
-Ensimmäisen ja toisen hallituksen osalta erojärjestyksestä ja toimikausien pituudesta päätetään valinnan tekevässä kokouksessa.
-
 Varsinaisena hallituksen jäsenenä voi toimia enintään kaksi (2) peräkkäistä toimikautta.
 
 ## 4.4 Puheenjohtaja, varapuheenjohtaja ja muut toimihenkilöt
@@ -379,16 +372,13 @@ Ohjausryhmä avustaa Hallitusta Yhdistyksen sisäisten määräysten valvonnassa
 
 Ohjausryhmä toteuttaa vuosittaisen toiminnantarkastuksen ja raportoi siitä Yhdistyksen kevätkokouksessa.
 
-Ohjausryhmä on myös vastuussa ehdokkaiden soveltuvuuden arvioinnista hallitusvaalien ja ohjausryhmän jäsenten valinnan yhteydessä sekä muiden sellaisten tehtävien täyttämisen yhteydessä,  joiden ehdokkaiden soveltuvuuden arviointiin Hallitus pyytää ohjausryhmän arviota.
+Ohjausryhmään kuuluu neljä (4) varsinaista jäsentä vuonna 2022 alkavalle toimikaudelle ja sen jälkeen kuusi (6) yhdistyksen jäsenistöä edustavaa varsinaista jäsentä, puolet kummastakin jäsenluokasta. Kummankin jäsenluokan edustajat valitaan Yhdistyksen jäsenistä syyskokouksessa. Jokaiselle ohjausryhmän varsinaiselle jäsenelle on valittava henkilökohtainen varajäsen. Ehdokkaana olevat ohjausryhmän jäsenet eivät voi arvioida muita ehdokkaita vaaliin, jossa he ovat itse ehdolla.
 
-Pyydettäessä ohjausryhmä laatii Hallitukselle valintaa tai nimitystä varten listan ehdokkaista, mukaan lukien ansioluettelot tai vastaavat.
+## 5.3 Ohjausryhmän jäsenten toimikausi
 
-Ohjausryhmään kuuluu neljä (4) yhdistyksen jäsenistöä edustavaa varsinaista jäsentä, kaksi (2) kummastakin jäsenluokasta. Kummankin jäsenluokan edustajat valitaan Yhdistyksen jäsenistä syyskokouksessa. Jokaiselle ohjausryhmän varsinaiselle jäsenelle on valittava henkilökohtainen varajäsen. Ehdokkaana olevat ohjausryhmän jäsenet eivät voi arvioida muita ehdokkaita vaaliin, jossa he ovat itse ehdolla.
+Ohjausryhmän jäsenten toimikausi on kaksi (2) tilikautta, ja vuosittain puolet tai lähinnä puolet ohjausryhmän jäsenistä on erovuorossa. 
 
-Vaaleilla valittujen ohjausryhmän jäsenten lisäksi hallitus nimittää kaksi hallituksen jäsentä toimimaan myös ohjausryhmässä.
-
-Ohjausryhmän jäsenten toimikausi on yksi (1) vuosi. Jäsen voi olla ohjausryhmän jäsen enintään kolme (3) peräkkäistä toimikautta.
-
+Varsinaisena hallituksen jäsenenä voi toimia enintään kaksi (2) peräkkäistä toimikautta.
 
 # 6. Toimikunnat
 
@@ -436,7 +426,7 @@ Yhdistyksen kevätkokous pidetään maalis-kesäkuussa ja syyskokous syys-jouluk
 
 ## 10.2 Ylimääräinen yhdistyskokous
 
-Ylimääräinen yhdistyskokous järjestetään, jos siitä päätetään yhdistyskokouksessa, jos Hallitus katsoo sen tarpeelliseksi tai jos vähintään kymmenesosa (1/10) jäsenistä, tai vähintään 100 jäsentä, kumpi tahansa on pienempi, pyytää sitä kirjallisesti jonkin tietyn asian käsittelyä varten. 
+Ylimääräinen yhdistyskokous järjestetään, jos siitä päätetään yhdistyskokouksessa, jos Hallitus tai ohjausryhmä katsoo sen tarpeelliseksi tai jos vähintään kymmenesosa (1/10) jäsenistä, tai vähintään 100 jäsentä, kumpi tahansa on pienempi, pyytää sitä kirjallisesti jonkin tietyn asian käsittelyä varten. 
 
 ## 10.3 Yhdistyksen kokouskutsu
 
