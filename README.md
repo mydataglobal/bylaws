@@ -230,13 +230,13 @@ Remote participation in general meetings shall be possible during the meeting th
 
 ## 11.1 Bylaw Amendments or Dissolution
 
-In case of dissolution, the Association’s assets must be used to promote the Association’s purpose in a manner determined by the general meeting at which the dissolution is decided.
+Decisions for amendations to these bylaws or the dissolution of the Association require at least three quarters (¾) of votes cast in favour in a general meeting to pass.
 
 Amendation of the bylaws, establishment or amendation of internal regulations or the dissolution of the Association must be announced in the general meeting invitation.
 
 ## 11.2 Distribution of Assets upon Dissolution
 
-In case of dissolution the assets of the Association must be used to promote the purpose of the Association in a manner determined by the general meeting at which the dissolution is decided.
+In case of dissolution, the Association’s assets must be used to promote the Association’s purpose in a manner determined by the general meeting at which the dissolution is decided.
 
 
 # ARTICLE 12 – Open Decision Making
