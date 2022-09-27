@@ -23,7 +23,7 @@ The Association is obliged to maintain up-to-date English-language versions of b
 
 ## 2.1 Purpose
 
-The Association maintains, develops and promotes the MyData Declaration.
+The Association maintains, develops, and promotes the MyData Declaration.
 
 The Association aims to empower individuals by improving their right to self-determination regarding their personal data. The human-centric paradigm strives for a fair, sustainable, and prosperous digital society, where the sharing of personal data is based on trust and a balanced and fair relationship between individuals and organisations.
 
@@ -42,14 +42,13 @@ To support its operations, the Association may receive donations and bequests an
 
 ## 3.1 Admission of a Member
 
-Any natural person or legal entity who wishes to promote the Association’s purpose, commit to following these bylaws, and signs the MyData Declaration, may apply for Membership in the Association.
+Any natural person or legal entity who wishes to promote the Association’s purpose, commits to following these bylaws, and signs the MyData Declaration, may apply for Membership in the Association.
 
 The Board of the Association approves new members based on applications. Applications must follow the submission format currently approved by the Board.
 
 Members may not transfer their membership to another natural person or legal entity.
 
 The Association’s list of members is a public document and may be published online if so decided by the Board.
-
 
 ## 3.2 Membership Classes
 
@@ -108,18 +107,18 @@ The Board is quorate when at least one half of its members, including the chair 
 
 ## 4.6 Remote Participation in Board Meetings 
 
-Remote participation in Board meetings shall be possible with telecommunication or other technical means. The Board will settle the exact mode of remote participation. 
+Remote participation in Board meetings shall be possible with telecommunication or other technical means. The Board will define the exact mode of remote participation. 
 
 
-# ARTICLE 5 – Officers and Steering Committee
+# ARTICLE 5 – Executive Director and Steering Committee
 
-## 5.1 Chief Executive Officer (CEO)
+## 5.1 Executive Director
 
-The Board may nominate a Chief Executive Officer. The authority delegated to the CEO will then be defined by the Board.
+The Board may nominate an Executive director. The authority delegated to the Executive Director will then be defined by the Board.
 
 ## 5.2 Steering Committee
 
-The Steering Committee is responsible for assisting the Board in its oversight of the Associations’ internal regulations and following the approved strategy.
+The Steering Committee is responsible for assisting the Board in its oversight of the Association's internal regulations and following the approved strategy.
 
 The Steering Committee shall conduct the annual performance audit and report it in the spring general meeting.
 
@@ -130,6 +129,7 @@ The Steering Committee shall consist of four (4) principal members for the term 
 The term of office for the Steering Committee members is two (2) fiscal years and annually one half or approximately one half of the members of the Steering Committee are to retire.
 
 A member can be a principal Steering Committee member for a maximum of two (2) consecutive terms.
+
 
 # ARTICLE 6 – Committees
 
@@ -155,9 +155,9 @@ The financial statement and its supplements, approved by the board, must be subm
 
 # ARTICLE 8 – Power of Attorney
 
-## 8.1 Chair, Vice Chair, Chief Executive Officer (CEO)
+## 8.1 Chair, Vice Chair, Executive Director
 
-The chair, vice chair, and CEO will be able to sign on behalf of the Association alone. The Board may give power of attorney to a Board member or one of its officers to sign on behalf of the Association alone.
+The chair, vice chair, and Executive Director will be able to sign on behalf of the Association alone. The Board may give power of attorney to a Board member or one of its officers to sign on behalf of the Association alone.
 
 
 # ARTICLE 9 – Internal Regulations
@@ -169,6 +169,7 @@ The general meeting may establish internal regulations for the Association that 
 Internal regulations are established and approved to be used in the general meeting. A copy of valid regulations, in English, is kept available electronically for all members of the Association.
 
 The MyData Declaration and the strategy of the association are considered internal regulations that shall be treated according to this article.
+
 
 # ARTICLE 10 –  General Meetings of the Association
 
@@ -212,23 +213,20 @@ Mandatory points to be addressed at the autumn general meeting:
 
 - Setting the membership fees for the Association for the next fiscal period.
 
-
 ## 10.5 Voting in General Meetings
 
 In the Association’s meetings each individual member has one (1) vote, and each organisation member has four (4) votes. The Association’s goal is equal voting power between the two membership classes (individual members and organisation members). If the ratio between individual members and organisation members changes, the Association shall update these bylaws to reflect the current ratio. The evaluation is conducted yearly and considered in each spring general meeting.
 
-Members of the Association may delegate their vote(s) to another member. Procedures are defined in detail in the Association’s Voting and Elections Regulations.
-
-Election and voting procedures are defined in detail in the Association’s Voting and Elections Regulations.
+Members of the Association may delegate their vote(s) to another member. This and other election and voting procedures are defined in detail in the Association’s Voting and Elections Regulations.
 
 ## 10.6 Remote Participation in General Meetings
 
-Remote participation in general meetings shall be possible during the meeting through telecommunications or other technical means. Further regulations concerning remote participation are to be defined in the voting and elections regulations.
+Remote participation in general meetings shall be possible during the meeting through telecommunications or other technical means. Further regulations concerning remote participation are to be defined in the Voting and Elections Regulations.
 
 
 # ARTICLE 11 – Amendment of Bylaws and Dissolution of the Association
 
-## 11.1 Bylaw Amendments or Dissolution
+## 11.1 Bylaws Amendments or Dissolution
 
 Decisions for amendations to these bylaws or the dissolution of the Association require at least three quarters (¾) of votes cast in favour in a general meeting to pass.
 
@@ -243,7 +241,7 @@ In case of dissolution, the Association’s assets must be used to promote the A
 
 ## 12.1 Open Decision Making
 
-The decision making and activities of the association are open and transparent. Preparations and outputs of all board- and general meetings, including agenda creation and proposals for decision or discussion, minutes, records of decisions made, and any of their supplements, are open by default, and the members have the right to participate in them. All board meetings are by default open for members to participate in them. All decisions taken by the Association are public by default.
+The decision making and activities of the association are open and transparent. Preparations and outputs of all board meetings and general meetings, including agenda creation and proposals for decision or discussion, minutes, records of decisions made, and any of their supplements, are open by default, and the Association's members have the right to participate in them. All board meetings are by default open for members to participate in them. All decisions taken by the Association are public by default.
 
 In extraordinary circumstances, the Board may restrict the involvement and access of members who are not on the Board in the processes and the documents outlined in this section. Matters involving privacy protection and those of a particularly sensitive nature may qualify as these extraordinary circumstances.
 
