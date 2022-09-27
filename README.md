@@ -207,7 +207,7 @@ Mandatory points to be addressed at the autumn general meeting:
 
 - Deciding on the compensation for Board members and auditor(s)
 
-- Elections for four (4) members, two (2) from each membership class (including their alternates), to the Steering Committee for the next fiscal period
+- Elections for two (2) members, one (1) from each membership class (including their alternates), to the Steering Committee for the next fiscal period
 
 - Ratification of the business plan and budget of the Association for the next fiscal period.
 
