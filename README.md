@@ -122,7 +122,7 @@ The Steering Committee is responsible for assisting the Board in its oversight o
 
 The Steering Committee shall conduct the annual performance audit and report it in the spring general meeting.
 
-The Steering Committee shall consist of four (4) principal members for the term starting 2022 and from then on (6) principal members representing the association membership, half of them from each membership class. The representatives of each membership class shall be elected among the Association’s members at the autumn general meeting. For each of the principal Steering Committee members, a personal alternate member shall be elected. Members of the Steering Committee that are candidates for election cannot review the other candidates for that election.
+The Steering Committee shall consist of six (6) principal members representing the association membership, half of them from each membership class. The representatives of each membership class shall be elected among the Association’s members at the autumn general meeting. For each of the principal Steering Committee members, a personal alternate member shall be elected. Members of the Steering Committee that are candidates for election cannot review the other candidates for that election.
 
 ## 5.3 Steering Committee Members’ Term of Office
 
@@ -207,7 +207,7 @@ Mandatory points to be addressed at the autumn general meeting:
 
 - Deciding on the compensation for Board members and auditor(s)
 
-- Elections for two (2) members, one (1) from each membership class (including their alternates), to the Steering Committee for the next fiscal period
+- Elections for the half (1/2) of the Steering Committee (including their alternates) whose term has concluded
 
 - Ratification of the business plan and budget of the Association for the next fiscal period.
 
