@@ -361,9 +361,9 @@ Etäosallistuminen hallituksen kokouksiin on oltava mahdollista tietoliikenneyht
 
 # 5. Toimihenkilöt ja ohjausryhmä
 
-## 5.1 Toimitusjohtaja
+## 5.1 Toiminnanjohtaja
 
-Hallitus voi nimetä toimitusjohtajan. Toimitusjohtajan toimivallan määrittelee hallitus.
+Hallitus voi nimetä toiminnanjohtajan. Toiminnanjohtajan toimivallan määrittelee hallitus.
 
 ## 5.2 Ohjausryhmä
 
@@ -371,7 +371,7 @@ Ohjausryhmä avustaa Hallitusta Yhdistyksen sisäisten määräysten valvonnassa
 
 Ohjausryhmä toteuttaa vuosittaisen toiminnantarkastuksen ja raportoi siitä Yhdistyksen kevätkokouksessa.
 
-Ohjausryhmään kuuluu neljä (4) varsinaista jäsentä vuonna 2022 alkavalle toimikaudelle ja sen jälkeen kuusi (6) yhdistyksen jäsenistöä edustavaa varsinaista jäsentä, puolet kummastakin jäsenluokasta. Kummankin jäsenluokan edustajat valitaan Yhdistyksen jäsenistä syyskokouksessa. Jokaiselle ohjausryhmän varsinaiselle jäsenelle on valittava henkilökohtainen varajäsen. Ehdokkaana olevat ohjausryhmän jäsenet eivät voi arvioida muita ehdokkaita vaaliin, jossa he ovat itse ehdolla.
+Ohjausryhmään kuuluu kuusi kuusi (6) yhdistyksen jäsenistöä edustavaa varsinaista jäsentä, puolet kummastakin jäsenluokasta. Kummankin jäsenluokan edustajat valitaan Yhdistyksen jäsenistä syyskokouksessa. Jokaiselle ohjausryhmän varsinaiselle jäsenelle on valittava henkilökohtainen varajäsen. Ehdokkaana olevat ohjausryhmän jäsenet eivät voi arvioida muita ehdokkaita vaaliin, jossa he ovat itse ehdolla.
 
 ## 5.3 Ohjausryhmän jäsenten toimikausi
 
@@ -403,9 +403,9 @@ Hallituksen hyväksymä tilinpäätös ja sen liitteet on toimitettava tilintark
 
 # 8. Yhdistyksen nimen kirjoittaminen
 
-## 8.1 Puheenjohtaja, varapuheenjohtaja, toimitusjohtaja
+## 8.1 Puheenjohtaja, varapuheenjohtaja, toiminnanjohtaja
 
-Yhdistyksen nimen kirjoittavat hallituksen puheenjohtaja, varapuheenjohtaja tai toimitusjohtaja yksin. Hallitus voi oikeuttaa yksittäisen hallituksen jäsenen tai muun yhdistyksen toimihenkilön kirjoittamaan yksinään yhdistyksen nimen.
+Yhdistyksen nimen kirjoittavat hallituksen puheenjohtaja, varapuheenjohtaja tai toimnnanjohtaja yksin. Hallitus voi oikeuttaa yksittäisen hallituksen jäsenen tai muun yhdistyksen toimihenkilön kirjoittamaan yksinään yhdistyksen nimen.
 
 
 # 9. Sisäiset määräykset
@@ -455,7 +455,7 @@ Syyskokouksessa käsitellään ainakin seuraavat asiat:
 
 - Päätetään Hallituksen jäsenten ja tilintarkastajien palkkioista
 
-- Neljän (4) jäsenen (mukaan lukien varajäsenet), kaksi (2) kummallekin jäsenluokalle, valitseminen ohjausryhmään seuraavalle tilikaudelle
+- Erovuorossa olevien ohjausryhmän jäsenten, yhteensä noin puolet (1/2) jäsenten kokonaismäärästä, tilalle tulevien jäsenten (mukaan lukien varajäsenet) valitseminen
 
 - Yhdistyksen toimintasuunnitelman ja budjetin vahvistaminen seuraavalle tilikaudelle
 
@@ -465,9 +465,7 @@ Syyskokouksessa käsitellään ainakin seuraavat asiat:
 
 Yhdistyksen kokouksessa jokaisella henkilöjäsenellä on yksi (1) ääni ja jokaisella yhteisöjäsenellä on neljä (4) ääntä. Yhdistyksen tavoitteena on yhtäläinen päätöksentekovalta kahden jäsenluokan (henkilöjäsenet ja yhteisöjäsenet) kesken. Jos henkilö- ja yhteisöjäsenten lukumäärien suhde muuttuu, Yhdistys tekee tarvittavat toimenpiteet, jotta säännöt muutetaan vastaamaan ajantasaista suhdetta. Arviointi tehdään vuosittain kevätkokouksessa.
 
-Yhdistyksen jäsenet voivat halutessaan siirtää äänioikeutensa toiselle yhdistyksen jäsenelle. Siirtotavat määritellään tarkemmin yhdistyksen äänestys- ja vaalijärjestyksessä.
-
-Vaaleista ja äänestysten järjestämisestä määritellään tarkemmin yhdistyksen äänestys- ja vaalijärjestyksessä.
+Yhdistyksen jäsenet voivat halutessaan siirtää äänioikeutensa toiselle yhdistyksen jäsenelle. Siirtotavat ja muut vaali- ja äänestystavat määritellään tarkemmin yhdistyksen äänestys- ja vaalijärjestyksessä.
 
 ## 10.6 Etäosallistuminen yhdistyksen kokouksiin
 
