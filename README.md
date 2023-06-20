@@ -16,7 +16,7 @@ The Association is governed by the Finnish Association Act.
 
 ## 1.4 Language Policy
 
-The Association is obliged to maintain up-to-date English-language versions of bylaws and meeting minutes of board meetings, general meetings and extraordinary general meetings.
+The Association is obliged to maintain up-to-date English-language versions of bylaws and meeting minutes of board meetings, general meetings and extraordinary general meetings. In case of inconsistencies between the English and Finnish versions of the bylaws, the Finnish version takes precedence.
 
 
 # ARTICLE 2 – Purpose and Means
@@ -264,7 +264,7 @@ Yhdistyksen toimintaan sovelletaan Suomen yhdistyslakia.
 
 ## 1.4 Kielikäytäntö
 
-Yhdistyksen tulee ylläpitää ajantasaista englanninkielistä versiota säännöistä sekä hallituksen kokousten, yhdistyskokousten ja ylimääräisten yhdistyskokousten pöytäkirjoista.
+Yhdistyksen tulee ylläpitää ajantasaista englanninkielistä versiota säännöistä sekä hallituksen kokousten, yhdistyskokousten ja ylimääräisten yhdistyskokousten pöytäkirjoista. Kieliversioiden ollessa ristiriidassa keskenään noudatetaan suomenkielisiä sääntöjä.
 
 
 # 2. Tarkoitus ja toimintamuodot
