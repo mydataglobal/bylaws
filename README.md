@@ -93,7 +93,7 @@ All members of the Board must be individual members of the Association.
 
 The initial term of office for the Board members is two (2) fiscal years.
 
-This term may be extended by one (1) fiscal year at a time, indefinitely, and without separate decision of the Association's membership.
+The Board may, at its sole discretion, grant an individual Board member's request for an extension of their term for up to one (1) fiscal year at a time and an indefinite number of consecutive times.
 
 ## 4.4 Chair, Vice Chair and Other Officials
 
