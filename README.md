@@ -79,23 +79,25 @@ The Board may suspend or expel a member for violation of these bylaws, violation
 
 The affairs and the activities of the Association are managed by its board of directors (hereafter “the Board”). 
 
-The Board is composed of a minimum of six (6) and a maximum of ten (10) members.
+The Board is composed of a minimum of four (4) members.
 
-## 4.2 Board elections
+## 4.2 Board Members' Appointment and Removal from Office
 
-The elections for members of the Board takes place in the autumn general meeting.
+New members of the board are proposed for appointment by the sitting Board and appointed by decision of the Association's membership in a general meeting.
 
-All members of the Board must be individual members of the Association. Any member may nominate any individual member as a candidate for the Board.
+A board member may be removed from office by decision of the Association's membership in a general meeting.
+
+All members of the Board must be individual members of the Association.
 
 ## 4.3 Board Members’ Term of Office
 
-The term of office for the Board members is two (2) fiscal years and annually one half or approximately one half of the members of the Board are to retire.
+The initial term of office for the Board members is two (2) fiscal years.
 
-A member can be a Board member for a maximum of two (2) consecutive terms.
+This term may be extended by one (1) fiscal year at a time, indefinitely, and without separate decision of the Association's membership.
 
-## 4.4 Chair, Vice Chair and other officials
+## 4.4 Chair, Vice Chair and Other Officials
 
-The Board will elect the chair and the vice chair from among the elected Board members and will assign a Treasurer, a Secretary and other necessary officials, from among or from outside of the elected Board members.
+The Board will elect a chair, a vice chair, a treasurer, and a membership representative from among its members.
 
 ## 4.5 Board Meetings
 
@@ -114,21 +116,6 @@ Remote participation in Board meetings shall be possible with telecommunication 
 
 The Board may nominate an Executive director. The authority delegated to the Executive Director will then be defined by the Board.
 
-## 5.2 Steering Committee
-
-The Steering Committee is responsible for assisting the Board in its oversight of the Association's internal regulations and following the approved strategy.
-
-The Steering Committee shall conduct the annual performance audit and report it in the spring general meeting.
-
-The Steering Committee shall consist of six (6) members representing the association membership, half of them from each membership class. The representatives of each membership class shall be elected among the Association’s members at the autumn general meeting. Members of the Steering Committee that are candidates for election cannot review the other candidates for that election.
-
-## 5.3 Steering Committee Members’ Term of Office
-
-The term of office for the Steering Committee members is two (2) fiscal years and annually one half or approximately one half of the members of the Steering Committee are to retire.
-
-A fixed-term extension to the term of office of a sitting steering committee member may be granted by decision of the association's membership in a general meeting.
-
-A member can be a Steering Committee member for a maximum of two (2) consecutive terms.
 
 # ARTICLE 6 – Committees
 
@@ -172,49 +159,39 @@ The MyData Declaration and the strategy of the association are considered intern
 
 # ARTICLE 10 –  General Meetings of the Association
 
-## 10.1 Regular General Meeting Times
+## 10.1 Regular Annual General Meeting Times
 
-Association’s spring general meeting is to be held between March and June and the autumn general meeting between September and December, at a date and time specified by the Board.
+The Association’s annual general meeting is to be held between March and June at a date and time specified by the Board.
 
 ## 10.2 Extraordinary General Meeting
 
-An extraordinary general meeting is held if it is decided upon in a general meeting; in case the Board or Steering Committee deems it necessary; or if at least one-tenth (1/10) of the members, or 100 members, whichever is smaller, request it in writing to discuss a named issue.
+An extraordinary general meeting is held if it is decided upon in a general meeting; in case the Board deems it necessary; or if at least one-tenth (1/10) of the Association's members, or 100 of the Association's members, whichever is smaller, request it in writing to discuss a named issue.
 
 ## 10.3 Notice of General Meetings
 
-The Board must give notice of general meetings by email and at the Association’s website at least thirty (30) days before the meeting.
+The Board must give notice of general meetings by email and on the Association’s website at least thirty (30) days before the meeting.
 
 ## 10.4 Agenda for General Meetings
 
-The agenda followed at general meetings is compiled by the Board. If the members wish a particular matter to be decided or discussed at a general meeting, they must take the motion to the Board no later than fourteen (14) days before the meeting. The Board shall provide all the meeting materials to the membership no later than seven (7) days before the meeting.
+The agenda followed at general meetings is compiled by the Board. If members of the Association wish a particular matter to be decided or discussed at a general meeting, they must take the motion to the Board no later than fourteen (14) days before that general meeting. The Board shall provide all the meeting materials to the membership no later than seven (7) days before the meeting.
 
-Mandatory points to be addressed at the spring general meeting:
+Mandatory points to be addressed at the annual general meeting are:
 
-- The annual report by the Board, the financial audit, and the statement of the accountants shall be presented.
+- The annual report by the Board, the performance report, the financial audit, and the statement of the accountants for the previous fiscal year shall be presented.
 
-- The financial statement of the preceding year of activity is approved, and the Board and others accountable for that fiscal period are relieved of responsibility.
+- The financial statement of the preceding year of activity is approved, and the Board and others accountable for that fiscal year are relieved of responsibility.
 
-- The performance report prepared by the Steering Committee shall be presented.
-
-Mandatory points to be addressed at the autumn general meeting:
-
-- Deciding on the number of Board members for the next term
-
-- Elections for the half (1/2) of the Board whose term has concluded
-
-- Choosing one (1) auditor for the Association and, if the auditor is not a registered accountancy firm, one (1) deputy auditor for the next fiscal period
+- Choosing one (1) auditor for the Association and, if the auditor is not a registered accountancy firm, one (1) deputy auditor for the next fiscal year
 
 - Deciding on the compensation for Board members and auditor(s)
 
-- Elections for the half (1/2) of the Steering Committee whose term has concluded
+- Ratification of the business plan and budget of the Association for the next fiscal year.
 
-- Ratification of the business plan and budget of the Association for the next fiscal period.
-
-- Setting the membership fees for the Association for the next fiscal period.
+- Setting the membership fees for the Association for the next fiscal year.
 
 ## 10.5 Voting in General Meetings
 
-In the Association’s meetings each individual member has one (1) vote, and each organisation member has four (4) votes. The Association’s goal is equal voting power between the two membership classes (individual members and organisation members). If the ratio between individual members and organisation members changes, the Association shall update these bylaws to reflect the current ratio. The evaluation is conducted yearly and considered in each spring general meeting.
+In the Association’s general meetings, each individual member has one (1) vote, and each organisation member has four (4) votes. The Association’s goal is equal voting power between the two membership classes (individual members and organisation members). If the ratio between individual members and organisation members changes, the Association shall update these bylaws to reflect the current ratio. The evaluation is conducted annually and considered in each annual general meeting.
 
 Members of the Association may delegate their vote(s) to another member. This and other election and voting procedures are defined in detail in the Association’s Voting and Elections Regulations.
 
