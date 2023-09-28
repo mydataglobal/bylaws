@@ -126,7 +126,7 @@ The Steering Committee shall consist of six (6) members representing the associa
 
 The term of office for the Steering Committee members is two (2) fiscal years and annually one half or approximately one half of the members of the Steering Committee are to retire.
 
-An extension to the terms of sitting steering committee members for a fixed period may be 
+A fixed-term extension to the term of office of a sitting steering committee member may be granted by decision of the association's membership in a general meeting.
 
 A member can be a Steering Committee member for a maximum of two (2) consecutive terms.
 
@@ -200,13 +200,13 @@ Mandatory points to be addressed at the autumn general meeting:
 
 - Deciding on the number of Board members for the next term
 
-- Elections for the half (1/2) of the Board (including their alternates) whose term has concluded
+- Elections for the half (1/2) of the Board whose term has concluded
 
 - Choosing one (1) auditor for the Association and, if the auditor is not a registered accountancy firm, one (1) deputy auditor for the next fiscal period
 
 - Deciding on the compensation for Board members and auditor(s)
 
-- Elections for the half (1/2) of the Steering Committee (including their alternates) whose term has concluded
+- Elections for the half (1/2) of the Steering Committee whose term has concluded
 
 - Ratification of the business plan and budget of the Association for the next fiscal period.
 
