@@ -79,21 +79,19 @@ The Board may suspend or expel a member for violation of these bylaws, violation
 
 The affairs and the activities of the Association are managed by its board of directors (hereafter “the Board”). 
 
-The Board is composed of a minimum of six (6) and a maximum of ten (10) principal members. For each of the principal board members, a personal alternate member shall be elected.
-
-If a principal board member resigns or is removed during their term, their personal alternate will act as a board member for the rest of the term.
+The Board is composed of a minimum of six (6) and a maximum of ten (10) principal members.
 
 ## 4.2 Board elections
 
 The elections for members of the Board takes place in the autumn general meeting.
 
-All members of the Board must be individual members of the Association. Any member may nominate any individual member as a candidate or their personal alternate for the Board.
+All members of the Board must be individual members of the Association. Any member may nominate any individual member as a candidate for the Board.
 
 ## 4.3 Board Members’ Term of Office
 
 The term of office for the Board members is two (2) fiscal years and annually one half or approximately one half of the members of the Board are to retire.
 
-A member can be a principal Board member for a maximum of two (2) consecutive terms.
+A member can be a Board member for a maximum of two (2) consecutive terms.
 
 ## 4.4 Chair, Vice Chair and other officials
 
@@ -101,7 +99,7 @@ The Board will elect the chair and the vice chair from among the elected Board m
 
 ## 4.5 Board Meetings
 
-The Board meets at the invitation of the chair or the vice chair or when at least half of the principal members of the Board request a meeting.
+The Board meets at the invitation of the chair or the vice chair or when at least half of the members of the Board request a meeting.
 
 The Board is quorate when at least one half of its members, including the chair or the vice chair, are present.
 
@@ -122,14 +120,15 @@ The Steering Committee is responsible for assisting the Board in its oversight o
 
 The Steering Committee shall conduct the annual performance audit and report it in the spring general meeting.
 
-The Steering Committee shall consist of six (6) principal members representing the association membership, half of them from each membership class. The representatives of each membership class shall be elected among the Association’s members at the autumn general meeting. For each of the principal Steering Committee members, a personal alternate member shall be elected. Members of the Steering Committee that are candidates for election cannot review the other candidates for that election.
+The Steering Committee shall consist of six (6) members representing the association membership, half of them from each membership class. The representatives of each membership class shall be elected among the Association’s members at the autumn general meeting. Members of the Steering Committee that are candidates for election cannot review the other candidates for that election.
 
 ## 5.3 Steering Committee Members’ Term of Office
 
 The term of office for the Steering Committee members is two (2) fiscal years and annually one half or approximately one half of the members of the Steering Committee are to retire.
 
-A member can be a principal Steering Committee member for a maximum of two (2) consecutive terms.
+An extension to the terms of sitting steering committee members for a fixed period may be 
 
+A member can be a Steering Committee member for a maximum of two (2) consecutive terms.
 
 # ARTICLE 6 – Committees
 
