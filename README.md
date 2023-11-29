@@ -329,19 +329,17 @@ Yhdistyksen asioista ja toiminnasta vastaa sen hallitus (jäljempänä ”Hallit
 
 Hallitukseen kuuluu vähintään kuusi (6) ja enintään kymmenen (10) varsinaista jäsentä, joille jokaiselle on valittava henkilökohtainen varajäsen.
 
-Jos hallituksen jäsen eroaa tai erotetaan toimikautensa aikana, hänen henkilökohtainen varajäsenensä toimii Hallituksen jäsenenä toimikauden loppuun asti.
-
 ## 4.2 Hallituksen valinta
 
 Hallitusten jäsenet valitaan syyskokouksessa.
 
-Kaikkien hallituksen jäsenten tulee olla Yhdistyksen henkilöjäseniä. Kuka tahansa jäsen voi ehdottaa henkilöjäsentä varsinaiseksi hallituksen jäseneksi tai hänen henkilökohtaiseksi varajäsenekseen.
+Kaikkien hallituksen jäsenten tulee olla Yhdistyksen henkilöjäseniä. Kuka tahansa jäsen voi ehdottaa henkilöjäsentä hallituksen jäseneksi.
 
 ## 4.3 Hallituksen jäsenten toimikausi
 
 Hallituksen jäsenten toimikausi on kaksi (2) tilikautta, ja vuosittain puolet tai lähinnä puolet hallituksen jäsenistä on erovuorossa. 
 
-Varsinaisena hallituksen jäsenenä voi toimia enintään kaksi (2) peräkkäistä toimikautta.
+Hallituksen jäsenenä voi toimia enintään kaksi (2) peräkkäistä toimikautta.
 
 ## 4.4 Puheenjohtaja, varapuheenjohtaja ja muut toimihenkilöt
 
@@ -349,7 +347,7 @@ Hallitus valitsee keskuudestaan puheenjohtajan ja varapuheenjohtajan sekä ottaa
 
 ## 4.5 Hallituksen kokoukset
 
-Hallitus kokoontuu puheenjohtajan tai varapuheenjohtajan kutsusta tai kun vähintään puolet hallituksen varsinaisista jäsenistä vaatii kokousta.
+Hallitus kokoontuu puheenjohtajan tai varapuheenjohtajan kutsusta tai kun vähintään puolet hallituksen jäsenistä vaatii kokousta.
 
 Hallitus on päätösvaltainen, kun vähintään puolet sen jäsenistä, mukaan lukien puheenjohtaja tai varapuheenjohtaja, on läsnä.
 
@@ -370,13 +368,14 @@ Ohjausryhmä avustaa Hallitusta Yhdistyksen sisäisten määräysten valvonnassa
 
 Ohjausryhmä toteuttaa vuosittaisen toiminnantarkastuksen ja raportoi siitä Yhdistyksen kevätkokouksessa.
 
-Ohjausryhmään kuuluu kuusi (6) yhdistyksen jäsenistöä edustavaa varsinaista jäsentä, puolet kummastakin jäsenluokasta. Kummankin jäsenluokan edustajat valitaan Yhdistyksen jäsenistä syyskokouksessa. Jokaiselle ohjausryhmän varsinaiselle jäsenelle on valittava henkilökohtainen varajäsen. Ehdokkaana olevat ohjausryhmän jäsenet eivät voi arvioida muita ehdokkaita vaaliin, jossa he ovat itse ehdolla.
+Ohjausryhmään kuuluu kuusi (6) yhdistyksen jäsenistöä edustavaa varsinaista jäsentä, puolet kummastakin jäsenluokasta. Kummankin jäsenluokan edustajat valitaan Yhdistyksen jäsenistä syyskokouksessa. Ehdokkaana olevat ohjausryhmän jäsenet eivät voi arvioida muita ehdokkaita vaaliin, jossa he ovat itse ehdolla.
 
 ## 5.3 Ohjausryhmän jäsenten toimikausi
 
 Ohjausryhmän jäsenten toimikausi on kaksi (2) tilikautta, ja vuosittain puolet tai lähinnä puolet ohjausryhmän jäsenistä on erovuorossa. 
+Yhdistyksen kokous voi päättää ohjausryhmän jäsenen määräaikaisesta toimikauden pidentämisestä.
 
-Varsinaisena hallituksen jäsenenä voi toimia enintään kaksi (2) peräkkäistä toimikautta.
+Ohjausryhmän jäsenenä voi toimia enintään kaksi (2) peräkkäistä toimikautta.
 
 # 6. Toimikunnat
 
@@ -454,7 +453,7 @@ Syyskokouksessa käsitellään ainakin seuraavat asiat:
 
 - Päätetään Hallituksen jäsenten ja tilintarkastajien palkkioista
 
-- Erovuorossa olevien ohjausryhmän jäsenten, yhteensä noin puolet (1/2) jäsenten kokonaismäärästä, tilalle tulevien jäsenten (mukaan lukien varajäsenet) valitseminen
+- Erovuorossa olevien ohjausryhmän jäsenten, yhteensä noin puolet (1/2) jäsenten kokonaismäärästä, tilalle tulevien jäsenten valitseminen
 
 - Yhdistyksen toimintasuunnitelman ja budjetin vahvistaminen seuraavalle tilikaudelle
 
