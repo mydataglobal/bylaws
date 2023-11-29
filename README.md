@@ -31,9 +31,19 @@ The Association aims to empower individuals by improving their right to self-det
 
 The Association operates globally and engages with diverse stakeholders, including natural persons, companies, non-profits, academic institutions, and public organisations.
 
-The Association shall facilitate an open, participatory and collaborative environment for individuals and organisations pursuing the Association’s purpose.
+The Association shall facilitate an open, participatory and collaborative 
+        
+          
+          
+        
+      environment for individuals and organisations pursuing the Association’s purpose.
 
-The Association offers a global framework for local, national, and international activities that align with the Association’s purpose and for affiliated initiatives. The Association’s activities include promoting and developing international networks related to the Association’s purpose, conducting advocacy, collaboration with different stakeholders, influencing policy-making, producing reports and conducting research, and implementing projects and services supporting the Association’s purpose.
+The Association offers a global framework for local, national, and international activities that align with the Association’s purpose and for affiliated initiatives. The Association’s activities include promoting and developing international networks related to the Association’s purpose, conducting advocacy, collaboration with different stakeholders, influencing policy-making, producing reports and conducting research, and implementing projects and 
+        
+          
+          
+        
+      services supporting the Association’s purpose.
 
 To support its operations, the Association may receive donations and bequests and raise funds by organising collections, seminars, courses, and other events that support the purpose of the Association. The Association may own, buy, sell, and licence goods necessary for its operations and own tangible and intangible assets. Also, the Association may engage in the following types of business activities that support its purpose: training, consulting, sale and manufacture of goods related to the purpose of the Association, organisation of events such as conferences, publishing, and certification.
 
@@ -202,13 +212,23 @@ Mandatory points to be addressed at the autumn general meeting:
 
 - Elections for the half (1/2) of the Board whose term has concluded
 
-- Choosing one (1) auditor for the Association and, if the auditor is not a registered accountancy firm, one (1) deputy auditor for the next fiscal period
+- Choosing one (1) auditor for the Association and, if the auditor is not a registered 
+        
+          
+          
+        
+      accountancy firm, one (1) deputy auditor for the next fiscal period
 
 - Deciding on the compensation for Board members and auditor(s)
 
 - Elections for the half (1/2) of the Steering Committee whose term has concluded
 
-- Ratification of the business plan and budget of the Association for the next fiscal period.
+- Ratification of the business plan and 
+        
+          
+          
+        
+      budget of the Association for the next fiscal period.
 
 - Setting the membership fees for the Association for the next fiscal period.
 
@@ -242,7 +262,12 @@ In case of dissolution, the Association’s assets must be used to promote the A
 
 The decision making and activities of the association are open and transparent. Preparations and outputs of all board meetings and general meetings, including agenda creation and proposals for decision or discussion, minutes, records of decisions made, and any of their supplements, are open by default, and the Association's members have the right to participate in them. All board meetings are by default open for members to participate in them. All decisions taken by the Association are public by default.
 
-In extraordinary circumstances, the Board may restrict the involvement and access of members who are not on the Board in the processes and the documents outlined in this section. Matters involving privacy protection and those of a particularly sensitive nature may qualify as these extraordinary circumstances.
+In extraordinary circumstances, the Board may restrict the involvement and access of members who are not on the Board in the processes and the documents outlined in this section. Matters involving privacy protection and those of a particularly sensitive 
+        
+          
+          
+        
+      nature may qualify as these extraordinary circumstances.
 
 
 
@@ -327,21 +352,19 @@ Hallitus voi erottaa jäsenen kokonaan tai määräaikaisesti sääntöjen rikko
 
 Yhdistyksen asioista ja toiminnasta vastaa sen hallitus (jäljempänä ”Hallitus”).
 
-Hallitukseen kuuluu vähintään kuusi (6) ja enintään kymmenen (10) varsinaista jäsentä, joille jokaiselle on valittava henkilökohtainen varajäsen.
-
-Jos hallituksen jäsen eroaa tai erotetaan toimikautensa aikana, hänen henkilökohtainen varajäsenensä toimii Hallituksen jäsenenä toimikauden loppuun asti.
+Hallitukseen kuuluu vähintään kuusi (6) ja enintään kymmenen (10) jäsentä.
 
 ## 4.2 Hallituksen valinta
 
 Hallitusten jäsenet valitaan syyskokouksessa.
 
-Kaikkien hallituksen jäsenten tulee olla Yhdistyksen henkilöjäseniä. Kuka tahansa jäsen voi ehdottaa henkilöjäsentä varsinaiseksi hallituksen jäseneksi tai hänen henkilökohtaiseksi varajäsenekseen.
+Kaikkien hallituksen jäsenten tulee olla Yhdistyksen henkilöjäseniä. Kuka tahansa jäsen voi ehdottaa henkilöjäsentä hallituksen jäseneksi.
 
 ## 4.3 Hallituksen jäsenten toimikausi
 
 Hallituksen jäsenten toimikausi on kaksi (2) tilikautta, ja vuosittain puolet tai lähinnä puolet hallituksen jäsenistä on erovuorossa. 
 
-Varsinaisena hallituksen jäsenenä voi toimia enintään kaksi (2) peräkkäistä toimikautta.
+Hallituksen jäsenenä voi toimia enintään kaksi (2) peräkkäistä toimikautta.
 
 ## 4.4 Puheenjohtaja, varapuheenjohtaja ja muut toimihenkilöt
 
@@ -349,7 +372,7 @@ Hallitus valitsee keskuudestaan puheenjohtajan ja varapuheenjohtajan sekä ottaa
 
 ## 4.5 Hallituksen kokoukset
 
-Hallitus kokoontuu puheenjohtajan tai varapuheenjohtajan kutsusta tai kun vähintään puolet hallituksen varsinaisista jäsenistä vaatii kokousta.
+Hallitus kokoontuu puheenjohtajan tai varapuheenjohtajan kutsusta tai kun vähintään puolet hallituksen jäsenistä vaatii kokousta.
 
 Hallitus on päätösvaltainen, kun vähintään puolet sen jäsenistä, mukaan lukien puheenjohtaja tai varapuheenjohtaja, on läsnä.
 
@@ -370,13 +393,13 @@ Ohjausryhmä avustaa Hallitusta Yhdistyksen sisäisten määräysten valvonnassa
 
 Ohjausryhmä toteuttaa vuosittaisen toiminnantarkastuksen ja raportoi siitä Yhdistyksen kevätkokouksessa.
 
-Ohjausryhmään kuuluu kuusi (6) yhdistyksen jäsenistöä edustavaa varsinaista jäsentä, puolet kummastakin jäsenluokasta. Kummankin jäsenluokan edustajat valitaan Yhdistyksen jäsenistä syyskokouksessa. Jokaiselle ohjausryhmän varsinaiselle jäsenelle on valittava henkilökohtainen varajäsen. Ehdokkaana olevat ohjausryhmän jäsenet eivät voi arvioida muita ehdokkaita vaaliin, jossa he ovat itse ehdolla.
+Ohjausryhmään kuuluu kuusi (6) yhdistyksen jäsenistöä edustavaa varsinaista jäsentä, puolet kummastakin jäsenluokasta. Kummankin jäsenluokan edustajat valitaan Yhdistyksen jäsenistä syyskokouksessa. Ehdokkaana olevat ohjausryhmän jäsenet eivät voi arvioida muita ehdokkaita vaaliin, jossa he ovat itse ehdolla.
 
 ## 5.3 Ohjausryhmän jäsenten toimikausi
 
 Ohjausryhmän jäsenten toimikausi on kaksi (2) tilikautta, ja vuosittain puolet tai lähinnä puolet ohjausryhmän jäsenistä on erovuorossa. 
-
-Varsinaisena hallituksen jäsenenä voi toimia enintään kaksi (2) peräkkäistä toimikautta.
+Yhdistyksen kokous voi päättää ohjausryhmän jäsenen määräaikaisesta toimikauden pidentämisestä.
+Ohjausryhmän jäsenenä voi toimia enintään kaksi (2) peräkkäistä toimikautta.
 
 # 6. Toimikunnat
 
@@ -448,7 +471,7 @@ Syyskokouksessa käsitellään ainakin seuraavat asiat:
 
 - Päätetään hallituksen jäsenten määrä seuraavalle tilikaudelle
 
-- Erovuorossa olevien hallituksen jäsenten, yhteensä noin puolet (1/2) jäsenten kokonaismäärästä, tilalle tulevien jäsenten (mukaan lukien varajäsenet) valitseminen
+- Erovuorossa olevien hallituksen jäsenten, yhteensä noin puolet (1/2) jäsenten kokonaismäärästä, tilalle tulevien jäsenten valitseminen
 
 - Yhden (1) varsinaisen tilintarkastajan ja mikäli varsinainen tilintarkastaja ei ole tilintarkastusyhteisö, yhden (1) varatilintarkastajan valitseminen seuraavalle tilikaudelle
 
