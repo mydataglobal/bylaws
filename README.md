@@ -327,7 +327,7 @@ Hallitus voi erottaa jäsenen kokonaan tai määräaikaisesti sääntöjen rikko
 
 Yhdistyksen asioista ja toiminnasta vastaa sen hallitus (jäljempänä ”Hallitus”).
 
-Hallitukseen kuuluu vähintään kuusi (6) ja enintään kymmenen (10) varsinaista jäsentä, joille jokaiselle on valittava henkilökohtainen varajäsen.
+Hallitukseen kuuluu vähintään kuusi (6) ja enintään kymmenen (10) varsinaista jäsentä.
 
 ## 4.2 Hallituksen valinta
 
@@ -447,7 +447,7 @@ Syyskokouksessa käsitellään ainakin seuraavat asiat:
 
 - Päätetään hallituksen jäsenten määrä seuraavalle tilikaudelle
 
-- Erovuorossa olevien hallituksen jäsenten, yhteensä noin puolet (1/2) jäsenten kokonaismäärästä, tilalle tulevien jäsenten (mukaan lukien varajäsenet) valitseminen
+- Erovuorossa olevien hallituksen jäsenten, yhteensä noin puolet (1/2) jäsenten kokonaismäärästä, tilalle tulevien jäsenten valitseminen
 
 - Yhden (1) varsinaisen tilintarkastajan ja mikäli varsinainen tilintarkastaja ei ole tilintarkastusyhteisö, yhden (1) varatilintarkastajan valitseminen seuraavalle tilikaudelle
 
