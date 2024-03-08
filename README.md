@@ -106,27 +106,12 @@ The Board is quorate when at least one half of its members, including the chair 
 Remote participation in Board meetings shall be possible with telecommunication or other technical means. The Board will define the exact mode of remote participation. 
 
 
-# ARTICLE 5 – Executive Director and Steering Committee
+# ARTICLE 5 – Executive Director
 
 ## 5.1 Executive Director
 
 The Board may nominate an Executive Director. The authority delegated to the Executive Director will then be defined by the Board.
 
-## 5.2 Steering Committee
-
-The Steering Committee is responsible for assisting the Board in its oversight of the Association's internal regulations and following the approved strategy.
-
-The Steering Committee shall conduct the annual performance audit and report it in the spring general meeting.
-
-The Steering Committee shall consist of six (6) members representing the association membership, half of them from each membership class. The representatives of each membership class shall be elected among the Association’s members at the autumn general meeting. Members of the Steering Committee that are candidates for election cannot review the other candidates for that election.
-
-## 5.3 Steering Committee Members’ Term of Office
-
-The term of office for the Steering Committee members is two (2) fiscal years and annually one half or approximately one half of the members of the Steering Committee are to retire.
-
-A fixed-term extension to the term of office of a sitting steering committee member may be granted by decision of the association's membership in a general meeting.
-
-A member can be a Steering Committee member for a maximum of two (2) consecutive terms.
 
 # ARTICLE 6 – Committees
 
@@ -170,13 +155,13 @@ The MyData Declaration and the strategy of the association are considered intern
 
 # ARTICLE 10 –  General Meetings of the Association
 
-## 10.1 Regular General Meeting Times
+## 10.1 Annual General Meeting
 
-Association’s spring general meeting is to be held between March and June and the autumn general meeting between September and December, at a date and time specified by the Board.
+The Association’s annual general meeting is to be held between March and June, at a date and time specified by the Board.
 
 ## 10.2 Extraordinary General Meeting
 
-An extraordinary general meeting is held if it is decided upon in a general meeting; in case the Board or Steering Committee deems it necessary; or if at least one-tenth (1/10) of the members, or 100 members, whichever is smaller, request it in writing to discuss a named issue.
+An extraordinary general meeting is held if it is decided upon in a general meeting; in case the Board deems it necessary; or if at least one-tenth (1/10) of the members, or 100 members, whichever is smaller, request it in writing to discuss a named issue.
 
 ## 10.3 Notice of General Meetings
 
@@ -186,33 +171,31 @@ The Board must give notice of general meetings by email and at the Association�
 
 The agenda followed at general meetings is compiled by the Board. If the members wish a particular matter to be decided or discussed at a general meeting, they must take the motion to the Board no later than fourteen (14) days before the meeting. The Board shall provide all the meeting materials to the membership no later than seven (7) days before the meeting.
 
-Mandatory points to be addressed at the spring general meeting:
+Mandatory points to be addressed at the annual general meeting:
 
 - The annual report by the Board, the financial audit, and the statement of the accountants shall be presented.
 
 - The financial statement of the preceding year of activity is approved, and the Board and others accountable for that fiscal period are relieved of responsibility.
 
-- The performance report prepared by the Steering Committee shall be presented.
+- The performance report prepared by the Board shall be presented.
 
-Mandatory points to be addressed at the autumn general meeting:
+Other points to be addressed at general meetings:
 
-- Deciding on the number of Board members for the next term
+- Election of Board members.
 
-- Elections for the half (1/2) of the Board whose term has concluded
-
-- Choosing one (1) auditor for the Association and, if the auditor is not a registered accountancy firm, one (1) deputy auditor for the next fiscal period
+- Choosing one (1) auditor for the Association and, if the auditor is not a registered accountancy firm, one (1) deputy auditor for the next fiscal period.
 
 - Deciding on the compensation for Board members and auditor(s)
 
-- Elections for the half (1/2) of the Steering Committee whose term has concluded
-
-- Ratification of the business plan and budget of the Association for the next fiscal period.
+- Ratification of the Association's strategies, work plans and budgets.
 
 - Setting the membership fees for the Association for the next fiscal period.
 
+- Voiding of Board decisions or removing of Board members through votes of no confidence.
+
 ## 10.5 Voting in General Meetings
 
-In the Association’s meetings each individual member has one (1) vote, and each organisation member has four (4) votes. The Association’s goal is equal voting power between the two membership classes (individual members and organisation members). If the ratio between individual members and organisation members changes, the Association shall update these bylaws to reflect the current ratio. The evaluation is conducted yearly and considered in each spring general meeting.
+In the Association’s meetings each individual member has one (1) vote, and each organisation member has four (4) votes. The Association’s goal is equal voting power between the two membership classes (individual members and organisation members). If the ratio between individual members and organisation members changes, the Association shall update these bylaws to reflect the current ratio. The evaluation is conducted yearly and considered in the annual general meeting.
 
 Members of the Association may delegate their vote(s) to another member. This and other election and voting procedures are defined in detail in the Association’s Voting and Elections Regulations.
 
@@ -234,13 +217,17 @@ Amendation of the bylaws, establishment or amendation of internal regulations or
 In case of dissolution, the Association’s assets must be used to promote the Association’s purpose in a manner determined by the general meeting at which the dissolution is decided.
 
 
-# ARTICLE 12 – Open Decision Making
+# ARTICLE 12 – Open Decision Making and Accountability
 
 ## 12.1 Open Decision Making
 
-The decision making and activities of the association are open and transparent. Preparations and outputs of all board meetings and general meetings, including agenda creation and proposals for decision or discussion, minutes, records of decisions made, and any of their supplements, are open by default, and the Association's members have the right to participate in them. All board meetings are by default open for members to participate in them. All decisions taken by the Association are public by default.
+The decision making and activities of the association are open and transparent. Preparations and outputs of all Board meetings and general meetings, including agenda creation and proposals for decision or discussion, minutes, records of decisions made, and any of their supplements, are open by default, and the Association's members have the right to participate in them. All Board meetings are by default open for members to participate in them. All decisions taken by the Association are public by default.
 
 In extraordinary circumstances, the Board may restrict the involvement and access of members who are not on the Board in the processes and the documents outlined in this section. Matters involving privacy protection and those of a particularly sensitive nature may qualify as these extraordinary circumstances.
+
+## 12.2 Accountability
+
+
 
 
 
