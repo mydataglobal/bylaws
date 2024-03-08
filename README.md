@@ -89,13 +89,11 @@ All members of the Board must be individual members of the Association. Any memb
 
 ## 4.3 Board Members’ Term of Office
 
-The term of office for the Board members is two (2) fiscal years and annually one half or approximately one half of the members of the Board are to retire.
-
-A member can be a Board member for a maximum of two (2) consecutive terms.
+The term of office for the Board members is three (3) fiscal years, with the potential for up to three (3) extensions of one (1) year, as approved by the Board.
 
 ## 4.4 Chair, Vice Chair and other officials
 
-The Board will elect the chair and the vice chair from among the elected Board members and will assign a Treasurer, a Secretary and other necessary officials, from among or from outside of the elected Board members.
+The Board will elect the chair and the vice chair from among the elected Board members and will assign other necessary officials such as a Treasurer or a Secretary, from among or from outside of the elected Board members.
 
 ## 4.5 Board Meetings
 
@@ -112,7 +110,7 @@ Remote participation in Board meetings shall be possible with telecommunication 
 
 ## 5.1 Executive Director
 
-The Board may nominate an Executive director. The authority delegated to the Executive Director will then be defined by the Board.
+The Board may nominate an Executive Director. The authority delegated to the Executive Director will then be defined by the Board.
 
 ## 5.2 Steering Committee
 
