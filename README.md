@@ -227,9 +227,9 @@ In extraordinary circumstances, the Board may restrict the involvement and acces
 
 ## 12.2 Accountability
 
+The Board is accountable to the Association's General Membership, which is the ultimate decision-making body of the Association. The Association’s general membership may veto a Board decision or cast a vote of no-confidence in individual Board members, removing them from office. Decisions for voiding board decisions or removing board members require a simple majority (50%) of votes cast in favour in a general meeting to pass.
 
-
-
+The membership may adopt internal regulations that adjust the voting requirements for votes of no-confidence in Board members who are mandated to represent specific membership classes on the Board. 
 
 
 # MyData Global ry:n säännöt
