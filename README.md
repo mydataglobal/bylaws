@@ -79,7 +79,7 @@ The Board may suspend or expel a member for violation of these bylaws, violation
 
 The affairs and the activities of the Association are managed by its board of directors (hereafter “the Board”). 
 
-The Board is composed of a minimum of six (6) and a maximum of ten (10) members.
+The Board is composed of a minimum of seven (7) and a maximum of eleven (11) members.
 
 ## 4.2 Board elections
 
