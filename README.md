@@ -234,6 +234,8 @@ The membership may adopt internal regulations that adjust the voting requirement
 
 # MyData Global ry:n säännöt
 
+Tämä on vanha teksti. Uuden tekstin suomenkielinen käännös on saatavilla pian.
+
 # 1.1 Virallinen nimi
 
 Yhdistyksen nimi on MyData Global ry. (jäljempänä ”Yhdistys”).
