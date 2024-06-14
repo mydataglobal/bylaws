@@ -314,7 +314,7 @@ Hallitus voi erottaa jäsenen kokonaan tai määräaikaisesti sääntöjen rikko
 
 Yhdistyksen asioista ja toiminnasta vastaa sen hallitus (jäljempänä ”Hallitus”).
 
-Hallitukseen kuuluu vähintään kuusi (6) ja enintään kymmenen (10) varsinaista jäsentä.
+Hallitukseen kuuluu vähintään seitsemän (7) ja enintään yksitoista (11) varsinaista jäsentä.
 
 ## 4.2 Hallituksen valinta
 
@@ -324,7 +324,7 @@ Kaikkien hallituksen jäsenten tulee olla Yhdistyksen henkilöjäseniä. Kuka ta
 
 ## 4.3 Hallituksen jäsenten toimikausi
 
-Hallituksen jäsenten toimikausi on kaksi (2) tilikautta, ja vuosittain puolet tai lähinnä puolet hallituksen jäsenistä on erovuorossa. 
+Hallituksen jäsenten toimikausi on kaksi (2) tilikautta, ja vuosittain puolet tai lähinnä. Hallituksen jäsenten toimikausi on kolme (3) tilikautta, jota voidaan kuitenkin pidentää enintään kolme (3) kertaa yhdellä (1) tilikaudella, Hallituksen päätöksen mukaisesti.
 
 Hallituksen jäsenenä voi toimia enintään kaksi (2) peräkkäistä toimikautta.
 
@@ -349,20 +349,6 @@ Etäosallistuminen hallituksen kokouksiin on oltava mahdollista tietoliikenneyht
 
 Hallitus voi nimetä toiminnanjohtajan. Toiminnanjohtajan toimivallan määrittelee hallitus.
 
-## 5.2 Ohjausryhmä
-
-Ohjausryhmä avustaa Hallitusta Yhdistyksen sisäisten määräysten valvonnassa ja hyväksytyn strategian seurannassa.
-
-Ohjausryhmä toteuttaa vuosittaisen toiminnantarkastuksen ja raportoi siitä Yhdistyksen kevätkokouksessa.
-
-Ohjausryhmään kuuluu kuusi (6) yhdistyksen jäsenistöä edustavaa varsinaista jäsentä, puolet kummastakin jäsenluokasta. Kummankin jäsenluokan edustajat valitaan Yhdistyksen jäsenistä syyskokouksessa. Ehdokkaana olevat ohjausryhmän jäsenet eivät voi arvioida muita ehdokkaita vaaliin, jossa he ovat itse ehdolla.
-
-## 5.3 Ohjausryhmän jäsenten toimikausi
-
-Ohjausryhmän jäsenten toimikausi on kaksi (2) tilikautta, ja vuosittain puolet tai lähinnä puolet ohjausryhmän jäsenistä on erovuorossa. 
-Yhdistyksen kokous voi päättää ohjausryhmän jäsenen määräaikaisesta toimikauden pidentämisestä.
-
-Ohjausryhmän jäsenenä voi toimia enintään kaksi (2) peräkkäistä toimikautta.
 
 # 6. Toimikunnat
 
@@ -404,15 +390,15 @@ Sisäiset määräykset asetetaan ja hyväksytään käyttöön yhdistyskokoukse
 MyData-julistus ja yhdistyksen strategia ovat sisäisiä määräyksiä, joita tulee käsitellä tämän sääntökohdan mukaisesti.
 
 
-# 10. Yhdistyksen kokoukset
+# 10. Yhdistyksen kokous
 
-## 10.1 Yhdistyskokousten ajankohdat
+## 10.1 Yhdistyskokouksen ajankohta
 
-Yhdistyksen kevätkokous pidetään maalis-kesäkuussa ja syyskokous syys-joulukuussa hallituksen määräämänä ajankohtana.
+Yhdistyksen vuosikokous pidetään maalis-kesäkuussa hallituksen määräämänä ajankohtana.
 
 ## 10.2 Ylimääräinen yhdistyskokous
 
-Ylimääräinen yhdistyskokous järjestetään, jos siitä päätetään yhdistyskokouksessa, jos Hallitus tai ohjausryhmä katsoo sen tarpeelliseksi tai jos vähintään kymmenesosa (1/10) jäsenistä, tai vähintään 100 jäsentä, kumpi tahansa on pienempi, pyytää sitä kirjallisesti jonkin tietyn asian käsittelyä varten. 
+Ylimääräinen yhdistyskokous järjestetään, jos siitä päätetään yhdistyskokouksessa, jos Hallitus tai ohjausryhmä katsoo sen tarpeelliseksi tai jos vähintään kymmenesosa (1/10) jäsenistä, tai vähintään 100 jäsentä, kumpi tahansa on pienempi, pyytää sitä kirjallisesti jonkin tietyn asian käsittelyä varten.
 
 ## 10.3 Yhdistyksen kokouskutsu
 
@@ -422,29 +408,20 @@ Hallituksen on kutsuttava yhdistyksen kokoukset koolle viimeistään kolmekymmen
 
 Yhdistyskokouksen esityslistan laatii Hallitus. Jos jäsenet haluavat jonkin tietyn asian päätettäväksi tai käsiteltäväksi yhdistyskokouksessa, heidän on tehtävä aiheesta aloite Hallitukselle viimeistään neljätoista (14) päivää ennen kokousta. Hallitus toimittaa kaikki kokousmateriaalit jäsenille vähintään seitsemän (7) päivää ennen kokousta.
 
-Kevätkokouksessa käsitellään ainakin seuraavat asiat:
+Vuosikokouksessa käsitellään ainakin seuraavat asiat:
 
-- Hallituksen vuosikertomuksen, tilintarkastuksen sekä tilintarkastajien lausunnon esittely
+* Hallituksen vuosikertomuksen, tilintarkastuksen sekä tilintarkastajien lausunnon esittely
+* Edellisen tilikauden tilinpäätöksen vahvistaminen sekä vastuuvapauden myöntäminen Hallitukselle ja muille toimihenkilöille
+* Hallituksen tekemän arviointiraportin esittely
 
-- Edellisen tilikauden tilinpäätöksen vahvistaminen sekä vastuuvapauden myöntäminen Hallitukselle ja muille toimihenkilöille
+Muita kokouksessa käsiteltäviä asioita ovat mm:
 
-- Ohjausryhmän tekemän toiminnantarkastusraportin esittely
-
-Syyskokouksessa käsitellään ainakin seuraavat asiat:
-
-- Päätetään hallituksen jäsenten määrä seuraavalle tilikaudelle
-
-- Erovuorossa olevien hallituksen jäsenten, yhteensä noin puolet (1/2) jäsenten kokonaismäärästä, tilalle tulevien jäsenten valitseminen
-
-- Yhden (1) varsinaisen tilintarkastajan ja mikäli varsinainen tilintarkastaja ei ole tilintarkastusyhteisö, yhden (1) varatilintarkastajan valitseminen seuraavalle tilikaudelle
-
-- Päätetään Hallituksen jäsenten ja tilintarkastajien palkkioista
-
-- Erovuorossa olevien ohjausryhmän jäsenten, yhteensä noin puolet (1/2) jäsenten kokonaismäärästä, tilalle tulevien jäsenten valitseminen
-
-- Yhdistyksen toimintasuunnitelman ja budjetin vahvistaminen seuraavalle tilikaudelle
-
-- Yhdistyksen jäsenmaksun suuruudesta päättäminen
+* Hallituksen jäsenten valinta
+* Yhden (1) varsinaisen tilintarkastajan ja mikäli varsinainen tilintarkastaja ei ole tilintarkastusyhteisö, yhden (1) varatilintarkastajan valitseminen seuraavalle tilikaudelle
+* Päätetään Hallituksen jäsenten ja tilintarkastajien palkkioista * Yhdistyksen strategioiden, toimintasuunnitelman ja budjetin hyväksyntä
+* Yhdistyksen strategioiden, toimintasuunnitelmien ja budjettien vahvistaminen seuraavalle tilikaudelle
+* Yhdistyksen jäsenmaksun suuruudesta päättäminen
+* Hallituksen päätösten peruuttaminen tai Hallituksen jäsenten erottaminen epäluottamusäänestyksen perusteella
 
 ## 10.5 Äänestäminen yhdistyskokouksessa
 
@@ -470,10 +447,12 @@ Kokouskutsussa on mainittava sääntöjen muuttamisesta, sisäisten määräyste
 Yhdistyksen purkautuessa käytetään yhdistyksen varat yhdistyksen tarkoituksen edistämiseen purkamisesta päättävän kokouksen määräämällä tavalla.
 
 
-# 12. Avoin päätöksenteko
+# 12. Avoin päätöksenteko ja tilivelvollisuus
 
-## 12.1 Avoin päätöksenteko
+## 12.1 Tilivelvollisuus
 
-Yhdistyksen päätöksenteko ja toiminta on avointa ja läpinäkyvää. Yhdistyskokousten ja hallituksen kokousten päätösesitysten valmistelu tapahtuu avoimesti ja jäsenillä on yhtäläinen oikeus osallistua valmisteluun, tehdä aloitteita ja saada tietoa päätösesityksistä. Hallituksen kokouksiin voivat osallistua kaikki yhdistyksen jäsenet.
+Hallitus on tilivelvollinen yhdistyksen jäsenistölle, joka on yhdistyksen ylin päättävä elin. Yhdistyksen jäsenistö voi käyttää veto-oikeutta hallituksen päätökseen tai antaa epäluottamuslauseen yksittäiselle hallituksen jäsenelle, siten erottaen hänet tehtävästään. 
 
-Kaikki päätökset ovat julkisia. Erityisestä syystä, kuten yksityisyyden suojan toteuttamiseksi tai päätösasian arkaluontoisuuden vuoksi hallitus voi rajoittaa hallituksen ulkopuolisten osallistumista päätösasian käsittelyyn sekä päätösesitysten liitteiden tai päätösten liitteiden julkisuutta.
+Päätökset hallituksen päätösten mitätöimisestä tai hallituksen jäsenten erottamisesta edellyttävät yksinkertaista enemmistöä (50 % + 1) yhtiökokouksessa annetuista äänistä. 
+
+Jäsenkunta voi hyväksyä sisäisiä määräyksiä, jotka muuttavat hallituksen jäsenten epäluottamuslauseen äänestysvaatimuksia.
