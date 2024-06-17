@@ -324,9 +324,7 @@ Kaikkien hallituksen jäsenten tulee olla Yhdistyksen henkilöjäseniä. Kuka ta
 
 ## 4.3 Hallituksen jäsenten toimikausi
 
-Hallituksen jäsenten toimikausi on kaksi (2) tilikautta, ja vuosittain puolet tai lähinnä. Hallituksen jäsenten toimikausi on kolme (3) tilikautta, jota voidaan kuitenkin pidentää enintään kolme (3) kertaa yhdellä (1) tilikaudella, Hallituksen päätöksen mukaisesti.
-
-Hallituksen jäsenenä voi toimia enintään kaksi (2) peräkkäistä toimikautta.
+Hallituksen jäsenten toimikausi on kolme (3) tilikautta, jota voidaan kuitenkin pidentää enintään kolme (3) kertaa yhdellä (1) tilikaudella, Hallituksen päätöksen mukaisesti.
 
 ## 4.4 Puheenjohtaja, varapuheenjohtaja ja muut toimihenkilöt
 
@@ -398,7 +396,7 @@ Yhdistyksen vuosikokous pidetään maalis-kesäkuussa hallituksen määräämän
 
 ## 10.2 Ylimääräinen yhdistyskokous
 
-Ylimääräinen yhdistyskokous järjestetään, jos siitä päätetään yhdistyskokouksessa, jos Hallitus tai ohjausryhmä katsoo sen tarpeelliseksi tai jos vähintään kymmenesosa (1/10) jäsenistä, tai vähintään 100 jäsentä, kumpi tahansa on pienempi, pyytää sitä kirjallisesti jonkin tietyn asian käsittelyä varten.
+Ylimääräinen yhdistyskokous järjestetään, jos siitä päätetään yhdistyskokouksessa,  jos Hallitus katsoo sen tarpeelliseksi tai jos vähintään kymmenesosa (1/10) jäsenistä, tai vähintään 100 jäsentä, kumpi tahansa on pienempi, pyytää sitä kirjallisesti jonkin tietyn asian käsittelyä varten.
 
 ## 10.3 Yhdistyksen kokouskutsu
 
@@ -418,7 +416,8 @@ Muita kokouksessa käsiteltäviä asioita ovat mm:
 
 * Hallituksen jäsenten valinta
 * Yhden (1) varsinaisen tilintarkastajan ja mikäli varsinainen tilintarkastaja ei ole tilintarkastusyhteisö, yhden (1) varatilintarkastajan valitseminen seuraavalle tilikaudelle
-* Päätetään Hallituksen jäsenten ja tilintarkastajien palkkioista * Yhdistyksen strategioiden, toimintasuunnitelman ja budjetin hyväksyntä
+* Päätetään Hallituksen jäsenten ja tilintarkastajien palkkioista
+* Yhdistyksen strategioiden, toimintasuunnitelman ja budjetin hyväksyntä
 * Yhdistyksen strategioiden, toimintasuunnitelmien ja budjettien vahvistaminen seuraavalle tilikaudelle
 * Yhdistyksen jäsenmaksun suuruudesta päättäminen
 * Hallituksen päätösten peruuttaminen tai Hallituksen jäsenten erottaminen epäluottamusäänestyksen perusteella
@@ -449,10 +448,15 @@ Yhdistyksen purkautuessa käytetään yhdistyksen varat yhdistyksen tarkoituksen
 
 # 12. Avoin päätöksenteko ja tilivelvollisuus
 
-## 12.1 Tilivelvollisuus
+## 12.1 Avoin päätöksenteko
 
-Hallitus on tilivelvollinen yhdistyksen jäsenistölle, joka on yhdistyksen ylin päättävä elin. Yhdistyksen jäsenistö voi käyttää veto-oikeutta hallituksen päätökseen tai antaa epäluottamuslauseen yksittäiselle hallituksen jäsenelle, siten erottaen hänet tehtävästään. 
+Yhdistyksen päätöksenteko ja toiminta on avointa ja läpinäkyvää. Yhdistyskokousten ja hallituksen kokousten päätösesitysten valmistelu tapahtuu avoimesti ja jäsenillä on yhtäläinen oikeus osallistua valmisteluun, tehdä aloitteita ja saada tietoa päätösesityksistä. Hallituksen kokouksiin voivat osallistua kaikki yhdistyksen jäsenet.
+Kaikki päätökset ovat julkisia. Erityisestä syystä, kuten yksityisyyden suojan toteuttamiseksi tai päätösasian arkaluontoisuuden vuoksi hallitus voi rajoittaa hallituksen ulkopuolisten osallistumista päätösasian käsittelyyn sekä päätösesitysten liitteiden tai päätösten liitteiden julkisuutta.
 
-Päätökset hallituksen päätösten mitätöimisestä tai hallituksen jäsenten erottamisesta edellyttävät yksinkertaista enemmistöä (50 % + 1) yhtiökokouksessa annetuista äänistä. 
+## 12.2 Tilivelvollisuus
 
-Jäsenkunta voi hyväksyä sisäisiä määräyksiä, jotka muuttavat hallituksen jäsenten epäluottamuslauseen äänestysvaatimuksia.
+Hallitus on tilivelvollinen yhdistyksen jäsenistölle, joka on yhdistyksen ylin päättävä elin. Yhdistyksen jäsenistö voi käyttää veto-oikeutta hallituksen päätökseen tai antaa epäluottamuslauseen yksittäiselle hallituksen jäsenelle, siten erottaen hänet tehtävästään.
+
+Päätökset hallituksen päätösten mitätöimisestä tai hallituksen jäsenten erottamisesta edellyttävät yksinkertaista enemmistöä (50 % + 1) yhtiökokouksessa annetuista äänistä.
+
+Äsenkunta voi hyväksyä sisäisiä määräyksiä, jotka muuttavat hallituksen jäsenten epäluottamuslauseen äänestysvaatimuksia.
