@@ -83,7 +83,7 @@ The Board is composed of a minimum of seven (7) and a maximum of eleven (11) mem
 
 ## 4.2 Board elections
 
-The elections for members of the Board takes place in the autumn general meeting.
+The elections for members of the Board takes place in the annual general meeting.
 
 All members of the Board must be individual members of the Association. Any member may nominate any individual member as a candidate for the Board.
 
@@ -234,8 +234,6 @@ The membership may adopt internal regulations that adjust the voting requirement
 
 # MyData Global ry:n säännöt
 
-Tämä on vanha teksti. Uuden tekstin suomenkielinen käännös on saatavilla pian.
-
 # 1.1 Virallinen nimi
 
 Yhdistyksen nimi on MyData Global ry. (jäljempänä ”Yhdistys”).
@@ -318,13 +316,13 @@ Hallitukseen kuuluu vähintään seitsemän (7) ja enintään yksitoista (11) va
 
 ## 4.2 Hallituksen valinta
 
-Hallitusten jäsenet valitaan syyskokouksessa.
+Hallituksen jäsenet valitaan vuosikokouksessa.
 
 Kaikkien hallituksen jäsenten tulee olla Yhdistyksen henkilöjäseniä. Kuka tahansa jäsen voi ehdottaa henkilöjäsentä hallituksen jäseneksi.
 
 ## 4.3 Hallituksen jäsenten toimikausi
 
-Hallituksen jäsenten toimikausi on kolme (3) tilikautta, jota voidaan kuitenkin pidentää enintään kolme (3) kertaa yhdellä (1) tilikaudella, Hallituksen päätöksen mukaisesti.
+Hallituksen jäsenten toimikausi on kolme (3) tilikautta, jota voidaan kuitenkin pidentää enintään kolme (3) kertaa yhdellä (1) tilikaudella, hallituksen päätöksen mukaisesti.
 
 ## 4.4 Puheenjohtaja, varapuheenjohtaja ja muut toimihenkilöt
 
@@ -404,7 +402,7 @@ Hallituksen on kutsuttava yhdistyksen kokoukset koolle viimeistään kolmekymmen
 
 ## 10.4 Yhdistykskokousten esityslista
 
-Yhdistyskokouksen esityslistan laatii Hallitus. Jos jäsenet haluavat jonkin tietyn asian päätettäväksi tai käsiteltäväksi yhdistyskokouksessa, heidän on tehtävä aiheesta aloite Hallitukselle viimeistään neljätoista (14) päivää ennen kokousta. Hallitus toimittaa kaikki kokousmateriaalit jäsenille vähintään seitsemän (7) päivää ennen kokousta.
+Yhdistyskokouksen esityslistan laatii hallitus. Jos jäsenet haluavat jonkin tietyn asian päätettäväksi tai käsiteltäväksi yhdistyskokouksessa, heidän on tehtävä aiheesta aloite Hallitukselle viimeistään neljätoista (14) päivää ennen kokousta. Hallitus toimittaa kaikki kokousmateriaalit jäsenille vähintään seitsemän (7) päivää ennen kokousta.
 
 Vuosikokouksessa käsitellään ainakin seuraavat asiat:
 
@@ -417,14 +415,13 @@ Muita kokouksessa käsiteltäviä asioita ovat mm:
 * Hallituksen jäsenten valinta
 * Yhden (1) varsinaisen tilintarkastajan ja mikäli varsinainen tilintarkastaja ei ole tilintarkastusyhteisö, yhden (1) varatilintarkastajan valitseminen seuraavalle tilikaudelle
 * Päätetään Hallituksen jäsenten ja tilintarkastajien palkkioista
-* Yhdistyksen strategioiden, toimintasuunnitelman ja budjetin hyväksyntä
-* Yhdistyksen strategioiden, toimintasuunnitelmien ja budjettien vahvistaminen seuraavalle tilikaudelle
-* Yhdistyksen jäsenmaksun suuruudesta päättäminen
-* Hallituksen päätösten peruuttaminen tai Hallituksen jäsenten erottaminen epäluottamusäänestyksen perusteella
+* Yhdistyksen strategioiden, toimintasuunnitelmien ja budjettien vahvistaminen
+* Yhdistyksen jäsenmaksun suuruudesta päättäminen seuraavalle tilikaudelle
+* Hallituksen päätösten peruuttaminen tai hallituksen jäsenten erottaminen epäluottamusäänestyksen perusteella
 
 ## 10.5 Äänestäminen yhdistyskokouksessa
 
-Yhdistyksen kokouksessa jokaisella henkilöjäsenellä on yksi (1) ääni ja jokaisella yhteisöjäsenellä on neljä (4) ääntä. Yhdistyksen tavoitteena on yhtäläinen päätöksentekovalta kahden jäsenluokan (henkilöjäsenet ja yhteisöjäsenet) kesken. Jos henkilö- ja yhteisöjäsenten lukumäärien suhde muuttuu, Yhdistys tekee tarvittavat toimenpiteet, jotta säännöt muutetaan vastaamaan ajantasaista suhdetta. Arviointi tehdään vuosittain kevätkokouksessa.
+Yhdistyksen kokouksessa jokaisella henkilöjäsenellä on yksi (1) ääni ja jokaisella yhteisöjäsenellä on neljä (4) ääntä. Yhdistyksen tavoitteena on yhtäläinen päätöksentekovalta kahden jäsenluokan (henkilöjäsenet ja yhteisöjäsenet) kesken. Jos henkilö- ja yhteisöjäsenten lukumäärien suhde muuttuu, Yhdistys tekee tarvittavat toimenpiteet, jotta säännöt muutetaan vastaamaan ajantasaista suhdetta. Arviointi tehdään vuosittain yhdistyksen vuosikokouksessa.
 
 Yhdistyksen jäsenet voivat halutessaan siirtää äänioikeutensa toiselle yhdistyksen jäsenelle. Siirtotavat ja muut vaali- ja äänestystavat määritellään tarkemmin yhdistyksen äänestys- ja vaalijärjestyksessä.
 
@@ -459,4 +456,4 @@ Hallitus on tilivelvollinen yhdistyksen jäsenistölle, joka on yhdistyksen ylin
 
 Päätökset hallituksen päätösten mitätöimisestä tai hallituksen jäsenten erottamisesta edellyttävät yksinkertaista enemmistöä (50 % + 1) yhtiökokouksessa annetuista äänistä.
 
-Äsenkunta voi hyväksyä sisäisiä määräyksiä, jotka muuttavat hallituksen jäsenten epäluottamuslauseen äänestysvaatimuksia.
+Jäsenistö voi hyväksyä sisäisiä määräyksiä, jotka muuttavat hallituksessa eri jäsenyysluokkia edustavien hallituksen jäsenten epäluottamusäänestystä koskevia vaatimuksia.
