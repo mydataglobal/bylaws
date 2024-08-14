@@ -404,7 +404,7 @@ Hallituksen on kutsuttava yhdistyksen kokoukset koolle viimeistään kolmekymmen
 
 ## 10.4 Yhdistykskokousten esityslista
 
-Yhdistyskokouksen esityslistan laatii Hallitus. Jos jäsenet haluavat jonkin tietyn asian päätettäväksi tai käsiteltäväksi yhdistyskokouksessa, heidän on tehtävä aiheesta aloite Hallitukselle viimeistään neljätoista (14) päivää ennen kokousta. Hallitus toimittaa kaikki kokousmateriaalit jäsenille vähintään seitsemän (7) päivää ennen kokousta.
+Yhdistyskokouksen esityslistan laatii hallitus. Jos jäsenet haluavat jonkin tietyn asian päätettäväksi tai käsiteltäväksi yhdistyskokouksessa, heidän on tehtävä aiheesta aloite Hallitukselle viimeistään neljätoista (14) päivää ennen kokousta. Hallitus toimittaa kaikki kokousmateriaalit jäsenille vähintään seitsemän (7) päivää ennen kokousta.
 
 Vuosikokouksessa käsitellään ainakin seuraavat asiat:
 
