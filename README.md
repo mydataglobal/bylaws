@@ -458,4 +458,4 @@ Hallitus on tilivelvollinen yhdistyksen jäsenistölle, joka on yhdistyksen ylin
 
 Päätökset hallituksen päätösten mitätöimisestä tai hallituksen jäsenten erottamisesta edellyttävät yksinkertaista enemmistöä (50 % + 1) yhtiökokouksessa annetuista äänistä.
 
-Äsenkunta voi hyväksyä sisäisiä määräyksiä, jotka muuttavat hallituksen jäsenten epäluottamuslauseen äänestysvaatimuksia.
+Jäsenistö voi hyväksyä sisäisiä määräyksiä, jotka muuttavat hallituksessa eri jäsenyysluokkia edustavien hallituksen jäsenten epäluottamusäänestystä koskevia vaatimuksia.
