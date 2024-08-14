@@ -324,7 +324,7 @@ Kaikkien hallituksen jäsenten tulee olla Yhdistyksen henkilöjäseniä. Kuka ta
 
 ## 4.3 Hallituksen jäsenten toimikausi
 
-Hallituksen jäsenten toimikausi on kolme (3) tilikautta, jota voidaan kuitenkin pidentää enintään kolme (3) kertaa yhdellä (1) tilikaudella, Hallituksen päätöksen mukaisesti.
+Hallituksen jäsenten toimikausi on kolme (3) tilikautta, jota voidaan kuitenkin pidentää enintään kolme (3) kertaa yhdellä (1) tilikaudella, hallituksen päätöksen mukaisesti.
 
 ## 4.4 Puheenjohtaja, varapuheenjohtaja ja muut toimihenkilöt
 
