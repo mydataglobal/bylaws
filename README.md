@@ -83,7 +83,7 @@ The Board is composed of a minimum of seven (7) and a maximum of eleven (11) mem
 
 ## 4.2 Board elections
 
-The elections for members of the Board takes place in the autumn general meeting.
+The elections for members of the Board takes place in the annual general meeting.
 
 All members of the Board must be individual members of the Association. Any member may nominate any individual member as a candidate for the Board.
 
@@ -318,7 +318,7 @@ Hallitukseen kuuluu vähintään seitsemän (7) ja enintään yksitoista (11) va
 
 ## 4.2 Hallituksen valinta
 
-Hallitusten jäsenet valitaan syyskokouksessa.
+Hallituksen jäsenet valitaan vuosikokouksessa.
 
 Kaikkien hallituksen jäsenten tulee olla Yhdistyksen henkilöjäseniä. Kuka tahansa jäsen voi ehdottaa henkilöjäsentä hallituksen jäseneksi.
 
