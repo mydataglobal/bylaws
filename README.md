@@ -417,14 +417,13 @@ Muita kokouksessa käsiteltäviä asioita ovat mm:
 * Hallituksen jäsenten valinta
 * Yhden (1) varsinaisen tilintarkastajan ja mikäli varsinainen tilintarkastaja ei ole tilintarkastusyhteisö, yhden (1) varatilintarkastajan valitseminen seuraavalle tilikaudelle
 * Päätetään Hallituksen jäsenten ja tilintarkastajien palkkioista
-* Yhdistyksen strategioiden, toimintasuunnitelman ja budjetin hyväksyntä
-* Yhdistyksen strategioiden, toimintasuunnitelmien ja budjettien vahvistaminen seuraavalle tilikaudelle
-* Yhdistyksen jäsenmaksun suuruudesta päättäminen
-* Hallituksen päätösten peruuttaminen tai Hallituksen jäsenten erottaminen epäluottamusäänestyksen perusteella
+* Yhdistyksen strategioiden, toimintasuunnitelmien ja budjettien vahvistaminen
+* Yhdistyksen jäsenmaksun suuruudesta päättäminen seuraavalle tilikaudelle
+* Hallituksen päätösten peruuttaminen tai hallituksen jäsenten erottaminen epäluottamusäänestyksen perusteella
 
 ## 10.5 Äänestäminen yhdistyskokouksessa
 
-Yhdistyksen kokouksessa jokaisella henkilöjäsenellä on yksi (1) ääni ja jokaisella yhteisöjäsenellä on neljä (4) ääntä. Yhdistyksen tavoitteena on yhtäläinen päätöksentekovalta kahden jäsenluokan (henkilöjäsenet ja yhteisöjäsenet) kesken. Jos henkilö- ja yhteisöjäsenten lukumäärien suhde muuttuu, Yhdistys tekee tarvittavat toimenpiteet, jotta säännöt muutetaan vastaamaan ajantasaista suhdetta. Arviointi tehdään vuosittain kevätkokouksessa.
+Yhdistyksen kokouksessa jokaisella henkilöjäsenellä on yksi (1) ääni ja jokaisella yhteisöjäsenellä on neljä (4) ääntä. Yhdistyksen tavoitteena on yhtäläinen päätöksentekovalta kahden jäsenluokan (henkilöjäsenet ja yhteisöjäsenet) kesken. Jos henkilö- ja yhteisöjäsenten lukumäärien suhde muuttuu, Yhdistys tekee tarvittavat toimenpiteet, jotta säännöt muutetaan vastaamaan ajantasaista suhdetta. Arviointi tehdään vuosittain yhdistyksen vuosikokouksessa.
 
 Yhdistyksen jäsenet voivat halutessaan siirtää äänioikeutensa toiselle yhdistyksen jäsenelle. Siirtotavat ja muut vaali- ja äänestystavat määritellään tarkemmin yhdistyksen äänestys- ja vaalijärjestyksessä.
 
