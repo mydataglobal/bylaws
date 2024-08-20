@@ -339,7 +339,7 @@ Hallitus on päätösvaltainen, kun vähintään puolet sen jäsenistä, mukaan 
 Etäosallistuminen hallituksen kokouksiin on oltava mahdollista tietoliikenneyhteyden tai muun teknisen apuvälineen avulla. Hallitus päättää tarkemmin etäosallistumisen järjestämisestä.
 
 
-# 5. Toimihenkilöt ja ohjausryhmä
+# 5. Toiminnanjohtaja
 
 ## 5.1 Toiminnanjohtaja
 
