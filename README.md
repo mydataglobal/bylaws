@@ -62,7 +62,7 @@ Organisation members must authorise a natural person as their primary contact an
 
 The Association may charge an admission fee and an annual membership fee. 
 
-Admission fees and annual membership fee categories for both membership classes are defined and decided on in the autumn general meeting.
+Admission fees and annual membership fee categories for both membership classes are defined and decided on in the annual general meeting.
 
 ## 3.4 Resignation and Expulsion of a Member
 
@@ -295,7 +295,7 @@ Yhteisöjäsenten on nimettävä luonnollinen henkilö ensisijaiseksi yhteyshenk
 
 Yhdistys voi periä liittymismaksuja ja vuotuisia jäsenmaksuja.
 
-Liittymismaksut sekä vuotuiset jäsenmaksutasot molemmille jäsenluokille määritellään ja päätetään syyskokouksessa.
+Liittymismaksut sekä vuotuiset jäsenmaksutasot molemmille jäsenluokille määritellään ja päätetään vuosikokouksessa.
 
 ## 3.4 Jäsenen eroaminen ja erottaminen
 
