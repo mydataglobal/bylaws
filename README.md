@@ -394,7 +394,7 @@ Yhdistyksen vuosikokous pidetään maalis-kesäkuussa Hallituksen määräämän
 
 ## 10.2 Ylimääräinen Yhdistyksen kokous
 
-Ylimääräinen Yhdistyksen Kokous järjestetään, jos siitä päätetään Yhdistyksen kokouksessa,  jos Hallitus katsoo sen tarpeelliseksi tai jos vähintään kymmenesosa (1/10) jäsenistä, tai vähintään 100 jäsentä, kumpi tahansa on pienempi, pyytää sitä kirjallisesti jonkin tietyn asian käsittelyä varten.
+Ylimääräinen Yhdistyksen kokous järjestetään, jos siitä päätetään Yhdistyksen kokouksessa tai jos Hallitus katsoo sen tarpeelliseksi tai jos sitä vähintään kymmenesosa (1/10) jäsenistä tai vähintään 100 jäsentä kirjallisesti tietyn asian käsittelyä varten vaatii.
 
 ## 10.3 Kutsut Yhdistyksen kokouksiin
 
