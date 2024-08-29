@@ -161,7 +161,7 @@ The Association’s annual general meeting is to be held between March and June,
 
 ## 10.2 Extraordinary General Meeting
 
-An extraordinary general meeting is held if it is decided upon in a general meeting; in case the Board deems it necessary; or if at least one-tenth (1/10) of the members, or 100 members, whichever is smaller, request it in writing to discuss a named issue.
+An extraordinary general meeting is held if it is decided upon in a general meeting; in case the Board deems it necessary; or if at least one-tenth (1/10) of the members, or 100 members, whichever is smaller, request it in writing to discuss a named issue. The Board must call the meeting within 30 days of receiving the request.
 
 ## 10.3 Notice of General Meetings
 
@@ -208,13 +208,13 @@ Remote participation in general meetings shall be possible during the meeting th
 
 ## 11.1 Bylaws Amendments or Dissolution
 
-Decisions for amendations to these bylaws or the dissolution of the Association require at least three quarters (¾) of votes cast in favour in a general meeting to pass.
+Decisions for amendations to these bylaws or the dissolution of the Association require at least three quarters (¾) of votes cast in favour in a General Meeting to pass.
 
-Amendation of the bylaws, establishment or amendation of internal regulations or the dissolution of the Association must be announced in the general meeting invitation.
+Amendation of the bylaws, establishment or amendation of internal regulations or the dissolution of the Association must be announced in the General Meeting invitation.
 
 ## 11.2 Distribution of Assets upon Dissolution
 
-In case of dissolution, the Association’s assets must be used to promote the Association’s purpose in a manner determined by the general meeting at which the dissolution is decided.
+In case of dissolution, the Association’s assets must be used to promote the Association’s purpose in a manner determined by the General Meeting at which the dissolution is decided.
 
 
 # ARTICLE 12 – Open Decision Making and Accountability
@@ -227,7 +227,11 @@ In extraordinary circumstances, the Board may restrict the involvement and acces
 
 ## 12.2 Accountability
 
-The Board is accountable to the Association's General Membership, which is the ultimate decision-making body of the Association. The Association’s general membership may veto a Board decision or cast a vote of no-confidence in individual Board members, removing them from office. Decisions for voiding board decisions or removing board members require a simple majority (50% + 1) of votes cast in favour in a general meeting to pass.
+The Board is accountable to the Association's General Membership, which is the ultimate decision-making body of the Association. The General Membership convenes at the General Meetings of the Association.
+
+A General Meeting may veto a Board decision or cast a vote of no-confidence in individual Board members, removing them from office. Board decisions relating to matters where the Associations Act or these Bylaws specifically assign or delegate authority to the Board may not be voided. In these cases, the general membership may issue a Notice to the Board.
+
+Decisions for voiding Board decisions or issuing a Notice or removing Board members require a simple majority (50% + 1) of votes cast in favour in a general meeting to pass.
 
 The membership may adopt internal regulations that adjust the voting requirements for votes of no-confidence in Board members who are mandated to represent specific membership classes on the Board. 
 
@@ -394,7 +398,7 @@ Yhdistyksen vuosikokous pidetään maalis-kesäkuussa Hallituksen määräämän
 
 ## 10.2 Ylimääräinen Yhdistyksen kokous
 
-Ylimääräinen Yhdistyksen kokous järjestetään, jos siitä päätetään Yhdistyksen kokouksessa tai jos Hallitus katsoo sen tarpeelliseksi tai jos sitä vähintään kymmenesosa (1/10) jäsenistä tai vähintään 100 jäsentä kirjallisesti tietyn asian käsittelyä varten vaatii.
+Ylimääräinen Yhdistyksen kokous järjestetään, jos siitä päätetään Yhdistyksen kokouksessa tai jos Hallitus katsoo sen tarpeelliseksi tai jos sitä vähintään kymmenesosa (1/10) jäsenistä tai vähintään 100 jäsentä kirjallisesti tietyn asian käsittelyä varten vaatii. Hallituksen on kutsuttava kokous koolle kolmenkymmenen (30) päivän sisällä vaatimuksen tiedoksi saamisesta.
 
 ## 10.3 Kutsut Yhdistyksen kokouksiin
 
