@@ -161,7 +161,7 @@ The Association’s annual general meeting is to be held between March and June,
 
 ## 10.2 Extraordinary General Meeting
 
-An extraordinary general meeting is held if it is decided upon in a general meeting; in case the Board deems it necessary; or if at least one-tenth (1/10) of the members, or 100 members, whichever is smaller, request it in writing to discuss a named issue.
+An extraordinary general meeting is held if it is decided upon in a general meeting; in case the Board deems it necessary; or if at least one-tenth (1/10) of the members, or 100 members, whichever is smaller, request it in writing to discuss a named issue. The Board must call the meeting within 30 days of receiving the request.
 
 ## 10.3 Notice of General Meetings
 
@@ -208,13 +208,13 @@ Remote participation in general meetings shall be possible during the meeting th
 
 ## 11.1 Bylaws Amendments or Dissolution
 
-Decisions for amendations to these bylaws or the dissolution of the Association require at least three quarters (¾) of votes cast in favour in a general meeting to pass.
+Decisions for amendations to these bylaws or the dissolution of the Association require at least three quarters (¾) of votes cast in favour in a General Meeting to pass.
 
-Amendation of the bylaws, establishment or amendation of internal regulations or the dissolution of the Association must be announced in the general meeting invitation.
+Amendation of the bylaws, establishment or amendation of internal regulations or the dissolution of the Association must be announced in the General Meeting invitation.
 
 ## 11.2 Distribution of Assets upon Dissolution
 
-In case of dissolution, the Association’s assets must be used to promote the Association’s purpose in a manner determined by the general meeting at which the dissolution is decided.
+In case of dissolution, the Association’s assets must be used to promote the Association’s purpose in a manner determined by the General Meeting at which the dissolution is decided.
 
 
 # ARTICLE 12 – Open Decision Making and Accountability
@@ -227,7 +227,11 @@ In extraordinary circumstances, the Board may restrict the involvement and acces
 
 ## 12.2 Accountability
 
-The Board is accountable to the Association's General Membership, which is the ultimate decision-making body of the Association. The Association’s general membership may veto a Board decision or cast a vote of no-confidence in individual Board members, removing them from office. Decisions for voiding board decisions or removing board members require a simple majority (50% + 1) of votes cast in favour in a general meeting to pass.
+The Board is accountable to the Association's General Membership, which is the ultimate decision-making body of the Association. The General Membership convenes at the General Meetings of the Association.
+
+A General Meeting may veto a Board decision or cast a vote of no-confidence in individual Board members, removing them from office. Board decisions relating to matters where the Associations Act or these Bylaws specifically assign or delegate authority to the Board may not be voided. In these cases, the general membership may issue a Notice to the Board.
+
+Decisions for voiding Board decisions or issuing a Notice or removing Board members require a simple majority (50% + 1) of votes cast in favour in a general meeting to pass.
 
 The membership may adopt internal regulations that adjust the voting requirements for votes of no-confidence in Board members who are mandated to represent specific membership classes on the Board. 
 
@@ -248,7 +252,7 @@ Yhdistyksen toimintaan sovelletaan Suomen yhdistyslakia.
 
 ## 1.4 Kielikäytäntö
 
-Yhdistyksen tulee ylläpitää ajantasaista englanninkielistä versiota säännöistä sekä hallituksen kokousten, yhdistyskokousten ja ylimääräisten yhdistyskokousten pöytäkirjoista. Kieliversioiden ollessa ristiriidassa keskenään noudatetaan suomenkielisiä sääntöjä.
+Yhdistyksen tulee ylläpitää ajantasaista englanninkielistä versiota säännöistä sekä Hallituksen kokousten ja Yhdistyksen kokousten pöytäkirjoista. Kieliversioiden ollessa ristiriidassa keskenään noudatetaan suomenkielisiä sääntöjä.
 
 
 # 2. Tarkoitus ja toimintamuodot
@@ -268,7 +272,7 @@ Yhdistys tarjoaa avoimen, osallistavan ja yhteistyöhön kannustavan toimintaymp
 
 Yhdistys tarjoaa maailmanlaajuisen alustan paikalliselle, kansalliselle ja kansainväliselle Yhdistyksen tarkoituksen mukaiselle toiminnalle ja siihen liittyville aloitteille. Yhdistyksen toimintaan kuuluu tarkoitukseen liittyvien verkostojen kehittäminen ja ylläpito, edunvalvonta, yhteistyö eri sidosryhmien kanssa, vaikuttaminen yhteiskunnalliseen päätöksentekoon, selvitys- ja tutkimustyö, sekä Yhdistyksen tarkoitusta tukevien projektien ja palvelujen toteuttaminen.
 
-Toimintansa tukemiseksi yhdistys voi ottaa vastaan lahjoituksia ja testamentteja sekä kerätä rahaa järjestämällä keräyksiä, seminaareja, kursseja ja muita Yhdistyksen tarkoitusta tukevia tapahtumia. Yhdistys voi omistaa, ostaa, myydä ja lisensoida sen toiminnalle tarpeellisia tuotteita sekä omistaa aineellista tai aineetonta omaisuutta. Lisäksi Yhdistys voi harjoittaa seuraavaa Yhdistyksen tarkoitusta tukevaa taloudellista toimintaa: koulutus, konsultointi, Yhdistyksen tarkoituksen toteuttamiseen liittyvien tavaroiden myynti ja valmistus, tapahtumien kuten konferenssien järjestäminen, julkaisutoiminta ja sertifiointi.
+Toimintansa tukemiseksi Yhdistys voi ottaa vastaan lahjoituksia ja testamentteja sekä kerätä rahaa järjestämällä keräyksiä, seminaareja, kursseja ja muita Yhdistyksen tarkoitusta tukevia tapahtumia. Yhdistys voi omistaa, ostaa, myydä ja lisensoida sen toiminnalle tarpeellisia tuotteita sekä omistaa aineellista tai aineetonta omaisuutta. Lisäksi Yhdistys voi harjoittaa seuraavaa Yhdistyksen tarkoitusta tukevaa taloudellista toimintaa: koulutus, konsultointi, Yhdistyksen tarkoituksen toteuttamiseen liittyvien tavaroiden myynti ja valmistus, tapahtumien kuten konferenssien järjestäminen, julkaisutoiminta ja sertifiointi.
 
 
 # 3. Yhdistyksen jäsenet
@@ -277,11 +281,11 @@ Toimintansa tukemiseksi yhdistys voi ottaa vastaan lahjoituksia ja testamentteja
 
 Yhdistyksen jäsenyyttä voi hakea luonnollinen henkilö tai oikeushenkilö, joka haluaa edistää Yhdistyksen tarkoitusta, sitoutuu noudattamaan näitä sääntöjä ja allekirjoittaa MyData-julistuksen.
 
-Uudet jäsenet hyväksyy hakemuksesta Yhdistyksen hallitus. Jäsenhakemus on jätettävä hallituksen kulloinkin hyväksymässä muodossa.
+Uudet jäsenet hyväksyy hakemuksesta Yhdistyksen Hallitus. Jäsenhakemus on jätettävä Hallituksen kulloinkin hyväksymässä muodossa.
 
 Jäsenyyttä ei voi siirtää toiselle luonnolliselle henkilölle tai oikeushenkilölle.
 
-Yhdistyksen jäsenluettelo on julkinen asiakirja ja se voidaan julkaista verkossa hallituksen niin päättäessä.
+Yhdistyksen jäsenluettelo on julkinen asiakirja ja se voidaan julkaista verkossa Hallituksen niin päättäessä.
 
 ## 3.2 Jäsenyysluokat
 
@@ -301,7 +305,7 @@ Liittymismaksut sekä vuotuiset jäsenmaksutasot molemmille jäsenluokille mää
 
 Jäsenyytensä säilyttämiseksi kaikkien jäsenten on maksettava heille osoitettu vuosittainen jäsenmaksu eräpäivänä. Mikäli jäsenmaksua ei ole suoritettu yhdeksänkymmenen (90) päivän kuluessa eräpäivästä, jäsenen katsotaan eronneeksi Yhdistyksen jäsenyydestä.
 
-Jäsen voi erota Yhdistyksestä ilmoittamalla siitä hallitukselle kirjallisesti. Jäsen voi myös erota ilmoittamalla siitä yhdistyksen kokouksessa pöytäkirjaan merkittäväksi.
+Jäsen voi erota Yhdistyksestä ilmoittamalla siitä Hallitukselle kirjallisesti. Jäsen voi myös erota ilmoittamalla siitä Yhdistyksen kokouksessa pöytäkirjaan merkittäväksi.
 
 Hallitus voi erottaa jäsenen kokonaan tai määräaikaisesti sääntöjen rikkomisen, Yhdistyksen sisäisten määräysten rikkomisen, Yhdistyksen tarkoituksen vastaisen toiminnan, Yhdistyksen yleisen edun vastaisen käyttäytymisen tai Yhdistyksen mainetta tahraavan toiminnan vuoksi. Erottaminen Yhdistyksestä astuu voimaan välittömästi erottamispäätöksen jälkeen.
 
@@ -310,7 +314,7 @@ Hallitus voi erottaa jäsenen kokonaan tai määräaikaisesti sääntöjen rikko
 
 ## 4.1 Hallitus
 
-Yhdistyksen asioista ja toiminnasta vastaa sen hallitus (jäljempänä ”Hallitus”).
+Yhdistyksen asioista ja toiminnasta vastaa sen Hallitus (jäljempänä ”Hallitus”).
 
 Hallitukseen kuuluu vähintään seitsemän (7) ja enintään yksitoista (11) varsinaista jäsentä.
 
@@ -318,11 +322,11 @@ Hallitukseen kuuluu vähintään seitsemän (7) ja enintään yksitoista (11) va
 
 Hallituksen jäsenet valitaan vuosikokouksessa.
 
-Kaikkien hallituksen jäsenten tulee olla Yhdistyksen henkilöjäseniä. Kuka tahansa jäsen voi ehdottaa henkilöjäsentä hallituksen jäseneksi.
+Kaikkien Hallituksen jäsenten tulee olla Yhdistyksen henkilöjäseniä. Kuka tahansa jäsen voi ehdottaa henkilöjäsentä Hallituksen jäseneksi.
 
 ## 4.3 Hallituksen jäsenten toimikausi
 
-Hallituksen jäsenten toimikausi on kolme (3) tilikautta, jota voidaan kuitenkin pidentää enintään kolme (3) kertaa yhdellä (1) tilikaudella, hallituksen päätöksen mukaisesti.
+Hallituksen jäsenten toimikausi on kolme (3) tilikautta, jota voidaan kuitenkin pidentää enintään kolme (3) kertaa yhdellä (1) tilikaudella, Hallituksen päätöksen mukaisesti.
 
 ## 4.4 Puheenjohtaja, varapuheenjohtaja ja muut toimihenkilöt
 
@@ -330,20 +334,20 @@ Hallitus valitsee keskuudestaan puheenjohtajan ja varapuheenjohtajan sekä ottaa
 
 ## 4.5 Hallituksen kokoukset
 
-Hallitus kokoontuu puheenjohtajan tai varapuheenjohtajan kutsusta tai kun vähintään puolet hallituksen jäsenistä vaatii kokousta.
+Hallitus kokoontuu puheenjohtajan tai varapuheenjohtajan kutsusta tai kun vähintään puolet Hallituksen jäsenistä vaatii kokousta.
 
 Hallitus on päätösvaltainen, kun vähintään puolet sen jäsenistä, mukaan lukien puheenjohtaja tai varapuheenjohtaja, on läsnä.
 
-## 4.6 Etäosallistuminen hallituksen kokouksiin
+## 4.6 Etäosallistuminen Hallituksen kokouksiin
 
-Etäosallistuminen hallituksen kokouksiin on oltava mahdollista tietoliikenneyhteyden tai muun teknisen apuvälineen avulla. Hallitus päättää tarkemmin etäosallistumisen järjestämisestä.
+Etäosallistuminen Hallituksen kokouksiin on oltava mahdollista tietoliikenneyhteyden tai muun teknisen apuvälineen avulla. Hallitus päättää tarkemmin etäosallistumisen järjestämisestä.
 
 
 # 5. Toiminnanjohtaja
 
 ## 5.1 Toiminnanjohtaja
 
-Hallitus voi nimetä toiminnanjohtajan. Toiminnanjohtajan toimivallan määrittelee hallitus.
+Hallitus voi nimetä toiminnanjohtajan. Toiminnanjohtajan toimivallan määrittelee Hallitus.
 
 
 # 6. Toimikunnat
@@ -372,37 +376,37 @@ Hallituksen hyväksymä tilinpäätös ja sen liitteet on toimitettava tilintark
 
 ## 8.1 Puheenjohtaja, varapuheenjohtaja, toiminnanjohtaja
 
-Yhdistyksen nimen kirjoittavat hallituksen puheenjohtaja, varapuheenjohtaja tai toimnnanjohtaja yksin. Hallitus voi oikeuttaa yksittäisen hallituksen jäsenen tai muun yhdistyksen toimihenkilön kirjoittamaan yksinään yhdistyksen nimen.
+Yhdistyksen nimen kirjoittavat Hallituksen puheenjohtaja, varapuheenjohtaja tai toimnnanjohtaja yksin. Hallitus voi oikeuttaa yksittäisen Hallituksen jäsenen tai muun Yhdistyksen toimihenkilön kirjoittamaan yksinään Yhdistyksen nimen.
 
 
 # 9. Sisäiset määräykset
 
 ## 9.1 Sisäiset määräykset
 
-Yhdistyskokous voi hyväksyä Yhdistyksen sisäiset määräykset, jotka täydentävät voimassa olevia sääntöjä. Jos sisäiset määräykset ja säännöt ovat ristiriidassa keskenään, säännöt ovat etusijalla.
+Yhdistyksen kokous voi hyväksyä Yhdistyksen sisäiset määräykset, jotka täydentävät voimassa olevia sääntöjä. Jos sisäiset määräykset ja säännöt ovat ristiriidassa keskenään, säännöt ovat etusijalla.
 
-Sisäiset määräykset asetetaan ja hyväksytään käyttöön yhdistyskokouksessa. Voimassa olevat englanninkieliset määräykset pidetään Yhdistyksen kaikkien jäsenten saatavilla sähköisessä muodossa.
+Sisäiset määräykset asetetaan ja hyväksytään käyttöön Yhdistyksen kokouksessa. Voimassa olevat englanninkieliset määräykset pidetään Yhdistyksen kaikkien jäsenten saatavilla sähköisessä muodossa.
 
-MyData-julistus ja yhdistyksen strategia ovat sisäisiä määräyksiä, joita tulee käsitellä tämän sääntökohdan mukaisesti.
+MyData-julistus ja Yhdistyksen strategia ovat sisäisiä määräyksiä, joita tulee käsitellä tämän sääntökohdan mukaisesti.
 
 
 # 10. Yhdistyksen kokous
 
-## 10.1 Yhdistyskokouksen ajankohta
+## 10.1 Yhdistyksen vuosikokouksen ajankohta
 
-Yhdistyksen vuosikokous pidetään maalis-kesäkuussa hallituksen määräämänä ajankohtana.
+Yhdistyksen vuosikokous pidetään maalis-kesäkuussa Hallituksen määräämänä ajankohtana.
 
-## 10.2 Ylimääräinen yhdistyskokous
+## 10.2 Ylimääräinen Yhdistyksen kokous
 
-Ylimääräinen yhdistyskokous järjestetään, jos siitä päätetään yhdistyskokouksessa,  jos Hallitus katsoo sen tarpeelliseksi tai jos vähintään kymmenesosa (1/10) jäsenistä, tai vähintään 100 jäsentä, kumpi tahansa on pienempi, pyytää sitä kirjallisesti jonkin tietyn asian käsittelyä varten.
+Ylimääräinen Yhdistyksen kokous järjestetään, jos siitä päätetään Yhdistyksen kokouksessa tai jos Hallitus katsoo sen tarpeelliseksi tai jos sitä vähintään kymmenesosa (1/10) jäsenistä tai vähintään 100 jäsentä kirjallisesti tietyn asian käsittelyä varten vaatii. Hallituksen on kutsuttava kokous koolle kolmenkymmenen (30) päivän sisällä vaatimuksen tiedoksi saamisesta.
 
-## 10.3 Yhdistyksen kokouskutsu
+## 10.3 Kutsut Yhdistyksen kokouksiin
 
-Hallituksen on kutsuttava yhdistyksen kokoukset koolle viimeistään kolmekymmentä (30) päivää ennen kokousta sähköpostitse ja Yhdistyksen verkkosivulla.
+Hallituksen on kutsuttava Yhdistyksen kokoukset koolle viimeistään kolmekymmentä (30) päivää ennen kokousta sähköpostitse ja Yhdistyksen verkkosivulla.
 
-## 10.4 Yhdistykskokousten esityslista
+## 10.4 Yhdistyksen Kokouksien esityslista
 
-Yhdistyskokouksen esityslistan laatii hallitus. Jos jäsenet haluavat jonkin tietyn asian päätettäväksi tai käsiteltäväksi yhdistyskokouksessa, heidän on tehtävä aiheesta aloite Hallitukselle viimeistään neljätoista (14) päivää ennen kokousta. Hallitus toimittaa kaikki kokousmateriaalit jäsenille vähintään seitsemän (7) päivää ennen kokousta.
+Yhdistyksen kokousten esityslistan laatii Hallitus. Jos jäsenet haluavat jonkin tietyn asian päätettäväksi tai käsiteltäväksi Yhdistyksen kokouksessa, heidän on tehtävä aiheesta aloite Hallitukselle viimeistään neljätoista (14) päivää ennen kokousta. Hallitus toimittaa kaikki kokousmateriaalit jäsenille vähintään seitsemän (7) päivää ennen kokousta.
 
 Vuosikokouksessa käsitellään ainakin seuraavat asiat:
 
@@ -417,43 +421,43 @@ Muita kokouksessa käsiteltäviä asioita ovat mm:
 * Päätetään Hallituksen jäsenten ja tilintarkastajien palkkioista
 * Yhdistyksen strategioiden, toimintasuunnitelmien ja budjettien vahvistaminen
 * Yhdistyksen jäsenmaksun suuruudesta päättäminen seuraavalle tilikaudelle
-* Hallituksen päätösten peruuttaminen tai hallituksen jäsenten erottaminen epäluottamusäänestyksen perusteella
+* Hallituksen päätösten peruuttaminen tai Hallituksen jäsenten erottaminen epäluottamusäänestyksen perusteella
 
-## 10.5 Äänestäminen yhdistyskokouksessa
+## 10.5 Äänestäminen Yhdistyksen kokouksessa
 
-Yhdistyksen kokouksessa jokaisella henkilöjäsenellä on yksi (1) ääni ja jokaisella yhteisöjäsenellä on neljä (4) ääntä. Yhdistyksen tavoitteena on yhtäläinen päätöksentekovalta kahden jäsenluokan (henkilöjäsenet ja yhteisöjäsenet) kesken. Jos henkilö- ja yhteisöjäsenten lukumäärien suhde muuttuu, Yhdistys tekee tarvittavat toimenpiteet, jotta säännöt muutetaan vastaamaan ajantasaista suhdetta. Arviointi tehdään vuosittain yhdistyksen vuosikokouksessa.
+Yhdistyksen kokouksessa jokaisella henkilöjäsenellä on yksi (1) ääni ja jokaisella yhteisöjäsenellä on neljä (4) ääntä. Yhdistyksen tavoitteena on yhtäläinen päätöksentekovalta kahden jäsenluokan (henkilöjäsenet ja yhteisöjäsenet) kesken. Jos henkilö- ja yhteisöjäsenten lukumäärien suhde muuttuu, Yhdistys tekee tarvittavat toimenpiteet, jotta säännöt muutetaan vastaamaan ajantasaista suhdetta. Arviointi tehdään vuosittain Yhdistyksen vuosikokouksessa.
 
-Yhdistyksen jäsenet voivat halutessaan siirtää äänioikeutensa toiselle yhdistyksen jäsenelle. Siirtotavat ja muut vaali- ja äänestystavat määritellään tarkemmin yhdistyksen äänestys- ja vaalijärjestyksessä.
+Yhdistyksen jäsenet voivat halutessaan siirtää äänioikeutensa toiselle Yhdistyksen jäsenelle. Siirtotavat ja muut vaali- ja äänestystavat määritellään tarkemmin Yhdistyksen äänestys- ja vaalijärjestyksessä.
 
-## 10.6 Etäosallistuminen yhdistyksen kokouksiin
+## 10.6 Etäosallistuminen Yhdistyksen kokouksiin
 
-Etäosallistuminen yhdistyksen kokouksiin on oltava mahdollista tietoliikenneyhteyden tai muun teknisen apuvälineen avulla. Etäosallistumista koskevat täydentävät määräykset otetaan yhdistyksen äänestys- ja vaalijärjestykseen.
+Etäosallistuminen Yhdistyksen kokouksiin on oltava mahdollista tietoliikenneyhteyden tai muun teknisen apuvälineen avulla. Etäosallistumista koskevat täydentävät määräykset otetaan Yhdistyksen äänestys- ja vaalijärjestykseen.
 
 
-# 11. Sääntöjen muuttaminen ja yhdistyksen purkaminen
+# 11. Sääntöjen muuttaminen ja Yhdistyksen purkaminen
 
-## 11.1 Sääntöjen muuttaminen tai yhdistyksen purkaminen
+## 11.1 Sääntöjen muuttaminen tai Yhdistyksen purkaminen
 
-Päätös sääntöjen muuttamisesta ja yhdistyksen purkamisesta on tehtävä yhdistyksen kokouksessa vähintään kolmen neljäsosan (3/4) enemmistöllä annetuista äänistä.
+Päätös sääntöjen muuttamisesta ja Yhdistyksen purkamisesta on tehtävä Yhdistyksen kokouksessa vähintään kolmen neljäsosan (3/4) enemmistöllä annetuista äänistä.
 
-Kokouskutsussa on mainittava sääntöjen muuttamisesta, sisäisten määräysten asettamisesta tai muuttamisesta tai yhdistyksen purkamisesta.
+Kokouskutsussa on mainittava sääntöjen muuttamisesta, sisäisten määräysten asettamisesta tai muuttamisesta tai Yhdistyksen purkamisesta.
 
-## 11.2 Varojen jakaminen yhdistyksen purkamisen yhteydessä
+## 11.2 Varojen jakaminen Yhdistyksen purkamisen yhteydessä
 
-Yhdistyksen purkautuessa käytetään yhdistyksen varat yhdistyksen tarkoituksen edistämiseen purkamisesta päättävän kokouksen määräämällä tavalla.
+Yhdistyksen purkautuessa käytetään Yhdistyksen varat Yhdistyksen tarkoituksen edistämiseen purkamisesta päättävän kokouksen määräämällä tavalla.
 
 
 # 12. Avoin päätöksenteko ja tilivelvollisuus
 
 ## 12.1 Avoin päätöksenteko
 
-Yhdistyksen päätöksenteko ja toiminta on avointa ja läpinäkyvää. Yhdistyskokousten ja hallituksen kokousten päätösesitysten valmistelu tapahtuu avoimesti ja jäsenillä on yhtäläinen oikeus osallistua valmisteluun, tehdä aloitteita ja saada tietoa päätösesityksistä. Hallituksen kokouksiin voivat osallistua kaikki yhdistyksen jäsenet.
-Kaikki päätökset ovat julkisia. Erityisestä syystä, kuten yksityisyyden suojan toteuttamiseksi tai päätösasian arkaluontoisuuden vuoksi hallitus voi rajoittaa hallituksen ulkopuolisten osallistumista päätösasian käsittelyyn sekä päätösesitysten liitteiden tai päätösten liitteiden julkisuutta.
+Yhdistyksen päätöksenteko ja toiminta on avointa ja läpinäkyvää. Yhdistyksen kokousten ja Hallituksen kokousten päätösesitysten valmistelu tapahtuu avoimesti ja jäsenillä on yhtäläinen oikeus osallistua valmisteluun, tehdä aloitteita ja saada tietoa päätösesityksistä. Hallituksen kokouksiin voivat osallistua kaikki Yhdistyksen jäsenet.
+Kaikki päätökset ovat julkisia. Erityisestä syystä, kuten yksityisyyden suojan toteuttamiseksi tai päätösasian arkaluontoisuuden vuoksi Hallitus voi rajoittaa Hallituksen ulkopuolisten osallistumista päätösasian käsittelyyn sekä päätösesitysten liitteiden tai päätösten liitteiden julkisuutta.
 
 ## 12.2 Tilivelvollisuus
 
-Hallitus on tilivelvollinen yhdistyksen jäsenistölle, joka on yhdistyksen ylin päättävä elin. Yhdistyksen jäsenistö voi käyttää veto-oikeutta hallituksen päätökseen tai antaa epäluottamuslauseen yksittäiselle hallituksen jäsenelle, siten erottaen hänet tehtävästään.
+Hallitus on tilivelvollinen Yhdistyksen jäsenistölle, joka on Yhdistyksen ylin päättävä elin. Yhdistyksen jäsenistö voi käyttää veto-oikeutta Hallituksen päätökseen tai antaa epäluottamuslauseen yksittäiselle Hallituksen jäsenelle, siten erottaen hänet tehtävästään.
 
-Päätökset hallituksen päätösten mitätöimisestä tai hallituksen jäsenten erottamisesta edellyttävät yksinkertaista enemmistöä (50 % + 1) yhtiökokouksessa annetuista äänistä.
+Päätökset Hallituksen päätösten mitätöimisestä tai Hallituksen jäsenten erottamisesta edellyttävät yksinkertaista enemmistöä (50 % + 1) yhtiökokouksessa annetuista äänistä.
 
-Jäsenistö voi hyväksyä sisäisiä määräyksiä, jotka muuttavat hallituksessa eri jäsenyysluokkia edustavien hallituksen jäsenten epäluottamusäänestystä koskevia vaatimuksia.
+Jäsenistö voi hyväksyä sisäisiä määräyksiä, jotka muuttavat Hallituksessa eri jäsenyysluokkia edustavien Hallituksen jäsenten epäluottamusäänestystä koskevia vaatimuksia.
