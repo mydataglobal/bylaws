@@ -233,6 +233,10 @@ A General Meeting may veto a Board decision or cast a vote of no-confidence in i
 
 Decisions for voiding Board decisions or issuing a Notice or removing Board members require a simple majority (50% + 1) of votes cast in favour in a general meeting to pass.
 
+Board decisions relating to matters where the Associations Act or these Bylaws specifically assign or delegate authority to the Board may not be voided. In these cases, the general membership may issue a non-binding Notice to the Board.
+
+Instances where Board decisions cannot be voided include, but are not limited to: ordinary financial decisions, preparation of materials to a General Meeting, representing the Association, admitting and discharging members (taking into account the Associations Act), maintaining the membership registry, declaring bankruptcy, raising a formal complaint in accordance with § 32 of the Associations Act and, in general, most ordinary decisions regarding the day-to-day management of the Association.
+
 The membership may adopt internal regulations that adjust the voting requirements for votes of no-confidence in Board members who are mandated to represent specific membership classes on the Board. 
 
 
@@ -459,5 +463,9 @@ Kaikki päätökset ovat julkisia. Erityisestä syystä, kuten yksityisyyden suo
 Hallitus on tilivelvollinen Yhdistyksen jäsenistölle, joka on Yhdistyksen ylin päättävä elin. Yhdistyksen jäsenistö voi käyttää veto-oikeutta Hallituksen päätökseen tai antaa epäluottamuslauseen yksittäiselle Hallituksen jäsenelle, siten erottaen hänet tehtävästään.
 
 Päätökset Hallituksen päätösten mitätöimisestä tai Hallituksen jäsenten erottamisesta edellyttävät yksinkertaista enemmistöä (50 % + 1) yhtiökokouksessa annetuista äänistä.
+
+Hallituksen päätöksiin kysymyksissä, joissa yhdistyslaki tai nämä säännöt antavat päätösvallan hallitukselle ei voida soveltaa edellä mainittua veto-oikeutta. Näissä tapauksissa jäsenistö voi päättää antaa hallitukselle ponnen.
+
+Hallituksen päätöksiä ei voida soveltaa edellä mainittua veto-oikeutta esimerkiksi seuraavissa tapauksissa: tavanomaiset taloudelliset päätökset, Yhdistyksen kokousten valmistelu, Yhdistyksen edustaminen, jäsenten hyväksyminen tai erottaminen (ottaen huomioon yhdistyslain määräykset), jäsenrekisterin ylläpitäminen, Yhdistyksen asettaminen konkurssiin, yhdistyslain 32 § mukaisen moitekannen nostaminen ja muut tavanomaiset päätökset yhdistyksen juoksevien asioiden hoitamisesta.
 
 Jäsenistö voi hyväksyä sisäisiä määräyksiä, jotka muuttavat Hallituksessa eri jäsenyysluokkia edustavien Hallituksen jäsenten epäluottamusäänestystä koskevia vaatimuksia.
