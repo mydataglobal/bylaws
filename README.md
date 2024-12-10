@@ -233,11 +233,9 @@ A General Meeting may veto a Board decision or cast a vote of no-confidence in i
 
 Decisions for voiding Board decisions or issuing a Notice or removing Board members require a simple majority (50% + 1) of votes cast in favour in a general meeting to pass.
 
-Board decisions relating to matters where the Associations Act or these Bylaws specifically assign or delegate authority to the Board may not be voided. In these cases, the general membership may issue a non-binding Notice to the Board.
-
 Instances where Board decisions cannot be voided include, but are not limited to: ordinary financial decisions, preparation of materials to a General Meeting, representing the Association, admitting and discharging members (taking into account the Associations Act), maintaining the membership registry, declaring bankruptcy, raising a formal complaint in accordance with § 32 of the Associations Act and, in general, most ordinary decisions regarding the day-to-day management of the Association.
 
-The membership may adopt internal regulations that adjust the voting requirements for votes of no-confidence in Board members who are mandated to represent specific membership classes on the Board. 
+The Membership may adopt internal regulations that adjust the voting requirements for votes of no-confidence in Board members who are mandated to represent specific membership classes on the Board.
 
 
 # MyData Global ry:n säännöt
@@ -455,17 +453,18 @@ Yhdistyksen purkautuessa käytetään Yhdistyksen varat Yhdistyksen tarkoituksen
 
 ## 12.1 Avoin päätöksenteko
 
-Yhdistyksen päätöksenteko ja toiminta on avointa ja läpinäkyvää. Yhdistyksen kokousten ja Hallituksen kokousten päätösesitysten valmistelu tapahtuu avoimesti ja jäsenillä on yhtäläinen oikeus osallistua valmisteluun, tehdä aloitteita ja saada tietoa päätösesityksistä. Hallituksen kokouksiin voivat osallistua kaikki Yhdistyksen jäsenet.
-Kaikki päätökset ovat julkisia. Erityisestä syystä, kuten yksityisyyden suojan toteuttamiseksi tai päätösasian arkaluontoisuuden vuoksi Hallitus voi rajoittaa Hallituksen ulkopuolisten osallistumista päätösasian käsittelyyn sekä päätösesitysten liitteiden tai päätösten liitteiden julkisuutta.
+Yhdistyksen päätöksenteko ja toiminta ovat avoimia ja läpinäkyviä. Kaikkien Hallituksen ja Yhdistyksen kokousten valmistelut ja tuotokset, mukaan lukien esityslistan laatiminen, päätös- tai keskusteluehdotukset, pöytäkirjat, tehdyt päätökset ja niiden mahdolliset liitteet, ovat oletuksena avoimia, ja Yhdistyksen jäsenillä on oikeus osallistua niihin. Kaikki Hallituksen kokoukset ovat oletuksena avoimia jäsenille. Kaikki Yhdistyksen tekemät päätökset ovat oletuksena julkisia.
+
+Poikkeuksellisissa olosuhteissa Hallitus voi rajoittaa Hallituksen ulkopuolisten jäsenten osallistumista ja pääsyä tässä kohdassa kuvattuihin prosesseihin ja asiakirjoihin. Tällaisiksi poikkeuksellisiksi olosuhteiksi voivat lukeutua yksityisyyden suojaa koskevat asiat ja erityisen arkaluonteiset asiat.
 
 ## 12.2 Tilivelvollisuus
 
-Hallitus on tilivelvollinen Yhdistyksen jäsenistölle, joka on Yhdistyksen ylin päättävä elin. Yhdistyksen jäsenistö voi käyttää veto-oikeutta Hallituksen päätökseen tai antaa epäluottamuslauseen yksittäiselle Hallituksen jäsenelle, siten erottaen hänet tehtävästään.
+Hallitus on vastuussa Yhdistyksen Jäsenistölle, joka on Yhdistyksen ylin päätöksentekoelin. Jäsenistö kokoontuu Yhdistyksen kokouksissa.
 
-Päätökset Hallituksen päätösten mitätöimisestä tai Hallituksen jäsenten erottamisesta edellyttävät yksinkertaista enemmistöä (50 % + 1) yhtiökokouksessa annetuista äänistä.
+Yhdistyksen kokous voi kumota Hallituksen päätöksen tai äänestää yksittäisen Hallituksen jäsenen epäluottamuksesta ja erottaa hänet tehtävästään. Hallituksen päätöksiä asioissa, joissa yhdistyslaki tai nämä säännöt erityisesti antavat tai delegoivat toimivallan Hallitukselle, ei voida mitätöidä. Näissä tapauksissa jäsenistö voi antaa hallitukselle ponnen.
 
-Hallituksen päätöksiin kysymyksissä, joissa yhdistyslaki tai nämä säännöt antavat päätösvallan hallitukselle ei voida soveltaa edellä mainittua veto-oikeutta. Näissä tapauksissa jäsenistö voi päättää antaa hallitukselle ponnen.
+Päätökset Hallituksen päätösten mitätöimisestä tai ponnen antamisesta tai Hallituksen jäsenten erottamisesta edellyttävät yksinkertaista enemmistöä (50 % + 1) yhtiökokouksessa annetuista äänistä.
 
-Hallituksen päätöksiä ei voida soveltaa edellä mainittua veto-oikeutta esimerkiksi seuraavissa tapauksissa: tavanomaiset taloudelliset päätökset, Yhdistyksen kokousten valmistelu, Yhdistyksen edustaminen, jäsenten hyväksyminen tai erottaminen (ottaen huomioon yhdistyslain määräykset), jäsenrekisterin ylläpitäminen, Yhdistyksen asettaminen konkurssiin, yhdistyslain 32 § mukaisen moitekannen nostaminen ja muut tavanomaiset päätökset yhdistyksen juoksevien asioiden hoitamisesta.
+Hallituksen päätöksiä ei voida mitätöidä esimerkiksi seuraavissa tapauksissa: tavanomaiset taloudelliset päätökset, Yhdistyksen kokousten valmistelu, Yhdistyksen edustaminen, jäsenten hyväksyminen tai erottaminen (ottaen huomioon yhdistyslain määräykset), jäsenrekisterin ylläpitäminen, Yhdistyksen asettaminen konkurssiin, yhdistyslain 32 § mukaisen moitekanteen nostaminen ja muut tavanomaiset päätökset Yhdistyksen juoksevien asioiden hoitamisesta.
 
 Jäsenistö voi hyväksyä sisäisiä määräyksiä, jotka muuttavat Hallituksessa eri jäsenyysluokkia edustavien Hallituksen jäsenten epäluottamusäänestystä koskevia vaatimuksia.
