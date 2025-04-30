@@ -89,7 +89,7 @@ All members of the Board must be individual members of the Association. Any memb
 
 ## 4.3 Board Members’ Term of Office
 
-The term of office for the Board members is three (3) fiscal years, with the potential for up to three (3) extensions of one (1) year, as approved by the Board.
+The term of office for the Board members is three (3) fiscal years, with the potential for up to two (2) extensions of one (1) year, as approved by the Membership.
 
 ## 4.4 Chair, Vice Chair and other officials
 
@@ -328,7 +328,7 @@ Kaikkien Hallituksen jäsenten tulee olla Yhdistyksen henkilöjäseniä. Kuka ta
 
 ## 4.3 Hallituksen jäsenten toimikausi
 
-Hallituksen jäsenten toimikausi on kolme (3) tilikautta, jota voidaan kuitenkin pidentää enintään kolme (3) kertaa yhdellä (1) tilikaudella, Hallituksen päätöksen mukaisesti.
+Hallituksen jäsenten toimikausi on kolme (3) tilikautta, jota voidaan kuitenkin pidentää enintään kolme (2) kertaa yhdellä (1) tilikaudella, Hallituksen päätöksen mukaisesti.
 
 ## 4.4 Puheenjohtaja, varapuheenjohtaja ja muut toimihenkilöt
 
