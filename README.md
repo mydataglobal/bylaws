@@ -195,7 +195,7 @@ Other points to be addressed at general meetings:
 
 ## 10.5 Voting in General Meetings
 
-In the Association’s meetings each individual member has one (1) vote, and each organisation member has four (4) votes. The Association’s goal is equal voting power between the two membership classes (individual members and organisation members). If the ratio between individual members and organisation members changes, the Association shall update these bylaws to reflect the current ratio. The evaluation is conducted yearly and considered in the annual general meeting.
+In the Association’s meetings each individual member has one (1) vote, and each organisation member has there (3) votes. The Association’s goal is equal voting power between the two membership classes (individual members and organisation members). If the ratio between individual members and organisation members changes, the Association shall update these bylaws to reflect the current ratio. The evaluation is conducted yearly and considered in the annual general meeting.
 
 Members of the Association may delegate their vote(s) to another member. This and other election and voting procedures are defined in detail in the Association’s Voting and Elections Regulations.
 
@@ -427,7 +427,7 @@ Muita kokouksessa käsiteltäviä asioita ovat mm:
 
 ## 10.5 Äänestäminen Yhdistyksen kokouksessa
 
-Yhdistyksen kokouksessa jokaisella henkilöjäsenellä on yksi (1) ääni ja jokaisella yhteisöjäsenellä on neljä (4) ääntä. Yhdistyksen tavoitteena on yhtäläinen päätöksentekovalta kahden jäsenluokan (henkilöjäsenet ja yhteisöjäsenet) kesken. Jos henkilö- ja yhteisöjäsenten lukumäärien suhde muuttuu, Yhdistys tekee tarvittavat toimenpiteet, jotta säännöt muutetaan vastaamaan ajantasaista suhdetta. Arviointi tehdään vuosittain Yhdistyksen vuosikokouksessa.
+Yhdistyksen kokouksessa jokaisella henkilöjäsenellä on yksi (1) ääni ja jokaisella yhteisöjäsenellä on kolme (3) ääntä. Yhdistyksen tavoitteena on yhtäläinen päätöksentekovalta kahden jäsenluokan (henkilöjäsenet ja yhteisöjäsenet) kesken. Jos henkilö- ja yhteisöjäsenten lukumäärien suhde muuttuu, Yhdistys tekee tarvittavat toimenpiteet, jotta säännöt muutetaan vastaamaan ajantasaista suhdetta. Arviointi tehdään vuosittain Yhdistyksen vuosikokouksessa.
 
 Yhdistyksen jäsenet voivat halutessaan siirtää äänioikeutensa toiselle Yhdistyksen jäsenelle. Siirtotavat ja muut vaali- ja äänestystavat määritellään tarkemmin Yhdistyksen äänestys- ja vaalijärjestyksessä.
 
